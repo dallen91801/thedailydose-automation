@@ -1,0 +1,2319 @@
+{
+  "meta": {
+    "status": 200,
+    "messages": [],
+    "pagination": {
+      "max": 25,
+      "offset": 0,
+      "count": 25,
+      "total": 17148,
+      "pageNum": 1,
+      "totalPages": 686,
+      "sort": "-dateContentPublished",
+      "currentUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media.json?offset=0&max=25&sort=-dateContentPublished&active=true&format=json",
+      "nextUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media.json?offset=25&max=25&sort=-dateContentPublished&active=true&format=json",
+      "previousUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media.json?offset=0&max=25&sort=-dateContentPublished&active=true&format=json"
+    }
+  },
+  "results": [
+    {
+      "mediaType": "Html",
+      "id": 19426,
+      "name": "Developmental Language Disorder",
+      "description": "Developmental language disorder (DLD) is a communication disorder that interferes with learning, understanding, and using language. These language difficulties are not explained by other conditions, such as hearing loss or autism, or by extenuating circumstances, such as lack of exposure to language. DLD can affect a child\u2019s speaking, listening, reading, and writing. DLD has also been called specific language impairment, language delay, or developmental dysphasia. It is one of the most common developmental disorders, affecting approximately 1 in 14 children in kindergarten. The impact of DLD persists into adulthood.",
+      "sourceUrl": "https://www.nidcd.nih.gov/health/developmental-language-disorder",
+      "targetUrl": null,
+      "dateContentAuthord": "2022-12-08T00:00:00Z",
+      "dateContentUpdated": "2022-12-08T00:00:00Z",
+      "dateContentPublished": "2022-12-08T00:00:00Z",
+      "dateContentReviewed": "2022-12-08T00:00:00Z",
+      "dateSyndicationVisibile": "2022-12-15T20:00:00Z",
+      "dateSyndicationCaptured": "2022-12-15T20:00:00Z",
+      "dateSyndicationUpdated": "2024-07-17T02:14:21Z",
+      "language": {
+        "id": 1,
+        "name": "English",
+        "isoCode": "eng",
+        "isActive": true
+      },
+      "externalGuid": null,
+      "contentHash": "9a1cca4185267101d704c8e41f8c1da3",
+      "source": {
+        "id": 35,
+        "name": "National Institute on Deafness and Other Communication Disorders",
+        "acronym": "NIDCD",
+        "websiteUrl": "https://www.nidcd.nih.gov",
+        "contactEmail": "jason.hamrick@nih.gov",
+        "largeLogoUrl": null,
+        "smallLogoUrl": null
+      },
+      "createdBy": null,
+      "campaigns": [],
+      "tags": [
+        {
+          "id": 23182,
+          "name": "DLD",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        }
+      ],
+      "tinyUrl": "https://tinyurl.digitalmedia.hhs.gov/2qqu",
+      "tinyToken": "2qqu",
+      "thumbnailUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19426/thumbnail.jpg",
+      "previewUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19426/preview.jpg",
+      "alternateImages": [
+        {
+          "id": 35610,
+          "name": "A young child smiling",
+          "url": "https://www.nidcd.nih.gov/sites/default/files/styles/content_image_small/public/2021-06/grinning-young-girl.png",
+          "height": 377,
+          "width": 250
+        }
+      ],
+      "attribution": "&lt;div id='hhsAttribution'&gt;Content provided and maintained by &lt;a href='https://www.nidcd.nih.gov' target='_blank'&gt;Health and Human Services&lt;/a&gt; (HHS). Please see our system &lt;a href='http:syndication.hhs.gov' target='_blank'&gt;usage guidelines and disclaimer&lt;/a&gt;.&lt;/div&gt;",
+      "customThumbnailUrl": "https://www.nidcd.nih.gov/sites/default/files/styles/content_image_small/public/2021-06/grinning-young-girl.png",
+      "customPreviewUrl": null,
+      "mediaItems": [],
+      "extendedAttributes": {}
+    },
+    {
+      "mediaType": "Html",
+      "id": 19379,
+      "name": "La prueba de audici\u00f3n de su beb\u00e9 y los siguientes pasos",
+      "description": "Aun antes de nacer, la mayor\u00eda de los ni\u00f1os oyen y escuchan sonidos. Aprenden a hablar imitando los sonidos a su alrededor y las voces de sus padres y de las personas que los cuidan.",
+      "sourceUrl": "https://www.nidcd.nih.gov/es/espanol/prueba-audicion-bebe-y-siguientes-pasos",
+      "targetUrl": null,
+      "dateContentAuthord": "2022-01-10T00:00:00Z",
+      "dateContentUpdated": "2022-01-10T00:00:00Z",
+      "dateContentPublished": "2022-01-10T00:00:00Z",
+      "dateContentReviewed": null,
+      "dateSyndicationVisibile": "2022-01-10T20:17:00Z",
+      "dateSyndicationCaptured": "2022-01-10T20:17:00Z",
+      "dateSyndicationUpdated": "2024-05-11T02:02:46Z",
+      "language": {
+        "id": 2,
+        "name": "Spanish",
+        "isoCode": "spa",
+        "isActive": true
+      },
+      "externalGuid": null,
+      "contentHash": "8354fabf1bd90d2acedb55890b960838",
+      "source": {
+        "id": 35,
+        "name": "National Institute on Deafness and Other Communication Disorders",
+        "acronym": "NIDCD",
+        "websiteUrl": "https://www.nidcd.nih.gov",
+        "contactEmail": "jason.hamrick@nih.gov",
+        "largeLogoUrl": null,
+        "smallLogoUrl": null
+      },
+      "createdBy": "NIDCD",
+      "campaigns": [],
+      "tags": [
+        {
+          "id": 314,
+          "name": "parents",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 1032,
+          "name": "newborn",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 18070,
+          "name": "Newborn hearing screening",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        }
+      ],
+      "tinyUrl": "https://tinyurl.digitalmedia.hhs.gov/2qpa",
+      "tinyToken": "2qpa",
+      "thumbnailUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19379/thumbnail.jpg",
+      "previewUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19379/preview.jpg",
+      "alternateImages": [],
+      "attribution": "&lt;div id='hhsAttribution'&gt;Content provided and maintained by &lt;a href='https://www.nidcd.nih.gov' target='_blank'&gt;Health and Human Services&lt;/a&gt; (HHS). Please see our system &lt;a href='http:syndication.hhs.gov' target='_blank'&gt;usage guidelines and disclaimer&lt;/a&gt;.&lt;/div&gt;",
+      "customThumbnailUrl": "https://www.nidcd.nih.gov/sites/default/files/Documents/health/hearing/baby-screening.jpg",
+      "customPreviewUrl": null,
+      "mediaItems": [],
+      "extendedAttributes": {}
+    },
+    {
+      "mediaType": "Html",
+      "id": 19378,
+      "name": "Your Baby's Hearing Screening and Next Steps",
+      "description": "Most children hear and listen to sounds at and even before birth. They learn to talk by imitating the sounds they hear around them and the voices of their parents and caregivers. But that\u2019s not true for all children. In fact, about two or three out of every 1,000 children in the United States are born with detectable hearing loss in one or both ears.",
+      "sourceUrl": "https://www.nidcd.nih.gov/health/your-babys-hearing-screening-and-next-steps",
+      "targetUrl": null,
+      "dateContentAuthord": "2021-10-09T00:00:00Z",
+      "dateContentUpdated": "2021-11-09T00:00:00Z",
+      "dateContentPublished": "2021-11-09T00:00:00Z",
+      "dateContentReviewed": null,
+      "dateSyndicationVisibile": "2022-01-10T20:05:00Z",
+      "dateSyndicationCaptured": "2022-01-10T20:05:00Z",
+      "dateSyndicationUpdated": "2024-05-11T02:02:46Z",
+      "language": {
+        "id": 1,
+        "name": "English",
+        "isoCode": "eng",
+        "isActive": true
+      },
+      "externalGuid": null,
+      "contentHash": "998f1d84db1344c2bd8d850f5bc1ad8a",
+      "source": {
+        "id": 35,
+        "name": "National Institute on Deafness and Other Communication Disorders",
+        "acronym": "NIDCD",
+        "websiteUrl": "https://www.nidcd.nih.gov",
+        "contactEmail": "jason.hamrick@nih.gov",
+        "largeLogoUrl": null,
+        "smallLogoUrl": null
+      },
+      "createdBy": "NIDCD",
+      "campaigns": [],
+      "tags": [
+        {
+          "id": 314,
+          "name": "parents",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 1032,
+          "name": "newborn",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 18070,
+          "name": "Newborn hearing screening",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        }
+      ],
+      "tinyUrl": "https://tinyurl.digitalmedia.hhs.gov/2qp9",
+      "tinyToken": "2qp9",
+      "thumbnailUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19378/thumbnail.jpg",
+      "previewUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19378/preview.jpg",
+      "alternateImages": [],
+      "attribution": "&lt;div id='hhsAttribution'&gt;Content provided and maintained by &lt;a href='https://www.nidcd.nih.gov' target='_blank'&gt;Health and Human Services&lt;/a&gt; (HHS). Please see our system &lt;a href='http:syndication.hhs.gov' target='_blank'&gt;usage guidelines and disclaimer&lt;/a&gt;.&lt;/div&gt;",
+      "customThumbnailUrl": "https://www.nidcd.nih.gov/sites/default/files/Documents/health/hearing/baby-screening.jpg",
+      "customPreviewUrl": null,
+      "mediaItems": [],
+      "extendedAttributes": {}
+    },
+    {
+      "mediaType": "Html",
+      "id": 3971,
+      "name": "HHS Small Business Program",
+      "description": "HHS Grants Management Outreach, Contact Information, and Event Calendar\r\n",
+      "sourceUrl": "http://www.hhs.gov/grants/small-business-programs/index.html",
+      "targetUrl": null,
+      "dateContentAuthord": "2015-02-25T00:00:00Z",
+      "dateContentUpdated": "2021-04-26T00:00:00Z",
+      "dateContentPublished": "2021-04-26T00:00:00Z",
+      "dateContentReviewed": null,
+      "dateSyndicationVisibile": null,
+      "dateSyndicationCaptured": "2016-03-11T21:10:50Z",
+      "dateSyndicationUpdated": "2021-05-06T16:32:01Z",
+      "language": {
+        "id": 1,
+        "name": "English",
+        "isoCode": "eng",
+        "isActive": true
+      },
+      "externalGuid": null,
+      "contentHash": "316fcc30fab1ec97ed8f17503c294cae",
+      "source": {
+        "id": 1,
+        "name": "Health and Human Services",
+        "acronym": "HHS",
+        "websiteUrl": "http://www.hhs.gov",
+        "contactEmail": null,
+        "largeLogoUrl": null,
+        "smallLogoUrl": null
+      },
+      "createdBy": "Small / Disadvantaged Business",
+      "campaigns": [],
+      "tags": [
+        {
+          "id": 17673,
+          "name": "Grants Contacts and Outreach",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 17674,
+          "name": "General Public",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "Audience",
+            "id": 3
+          }
+        }
+      ],
+      "tinyUrl": "https://tinyurl.digitalmedia.hhs.gov/2o8j",
+      "tinyToken": "2o8j",
+      "thumbnailUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/3971/thumbnail.jpg",
+      "previewUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/3971/preview.jpg",
+      "alternateImages": [],
+      "attribution": "&lt;div id='hhsAttribution'&gt;Content provided and maintained by &lt;a href='http://www.hhs.gov' target='_blank'&gt;Health and Human Services&lt;/a&gt; (HHS). Please see our system &lt;a href='http:syndication.hhs.gov' target='_blank'&gt;usage guidelines and disclaimer&lt;/a&gt;.&lt;/div&gt;",
+      "customThumbnailUrl": null,
+      "customPreviewUrl": null,
+      "mediaItems": [],
+      "extendedAttributes": {}
+    },
+    {
+      "mediaType": "Html",
+      "id": 19354,
+      "name": "Protectores de o\u00eddos para un mundo ruidoso",
+      "description": "Aprenda cu\u00e1ndo se debe usar protectores de o\u00eddos, c\u00f3mo ayudar a los ni\u00f1os a usarlos y qu\u00e9 debe saber sobre los diferentes tipos de protectores o\u00eddos.",
+      "sourceUrl": "https://www.noisyplanet.nidcd.nih.gov/espanol/publications/protectores-de-oidos-para-un-mundo-ruidoso",
+      "targetUrl": null,
+      "dateContentAuthord": "2021-04-08T00:00:00Z",
+      "dateContentUpdated": "2021-04-08T00:00:00Z",
+      "dateContentPublished": "2021-04-08T00:00:00Z",
+      "dateContentReviewed": null,
+      "dateSyndicationVisibile": "2021-07-20T16:12:00Z",
+      "dateSyndicationCaptured": "2021-07-20T16:12:00Z",
+      "dateSyndicationUpdated": "2025-04-30T02:28:13Z",
+      "language": {
+        "id": 2,
+        "name": "Spanish",
+        "isoCode": "spa",
+        "isActive": true
+      },
+      "externalGuid": null,
+      "contentHash": "8cd40cdf546437066ae48ced8f351428",
+      "source": {
+        "id": 35,
+        "name": "National Institute on Deafness and Other Communication Disorders",
+        "acronym": "NIDCD",
+        "websiteUrl": "https://www.nidcd.nih.gov",
+        "contactEmail": "jason.hamrick@nih.gov",
+        "largeLogoUrl": null,
+        "smallLogoUrl": null
+      },
+      "createdBy": null,
+      "campaigns": [],
+      "tags": [
+        {
+          "id": 21945,
+          "name": "noisyplanet",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 22786,
+          "name": "Hearing Protectors",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        }
+      ],
+      "tinyUrl": "https://tinyurl.digitalmedia.hhs.gov/2qog",
+      "tinyToken": "2qog",
+      "thumbnailUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19354/thumbnail.jpg",
+      "previewUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19354/preview.jpg",
+      "alternateImages": [
+        {
+          "id": 35607,
+          "name": "A girl smiles and wears protective earmuffs.",
+          "url": "https://www.noisyplanet.nidcd.nih.gov/sites/noisyplanet/files/ContentImages/Publications/girl_ear_muffs.jpg",
+          "height": 373,
+          "width": 300
+        }
+      ],
+      "attribution": "&lt;div id='hhsAttribution'&gt;Content provided and maintained by &lt;a href='https://www.nidcd.nih.gov' target='_blank'&gt;Health and Human Services&lt;/a&gt; (HHS). Please see our system &lt;a href='http:syndication.hhs.gov' target='_blank'&gt;usage guidelines and disclaimer&lt;/a&gt;.&lt;/div&gt;",
+      "customThumbnailUrl": "https://www.noisyplanet.nidcd.nih.gov/sites/noisyplanet/files/ContentImages/Publications/girl_ear_muffs.jpg",
+      "customPreviewUrl": null,
+      "mediaItems": [],
+      "extendedAttributes": {}
+    },
+    {
+      "mediaType": "Html",
+      "id": 19358,
+      "name": "Protectores de o\u00eddos",
+      "description": "Las mejores formas de proteger la audici\u00f3n son evitar la exposici\u00f3n a sonidos fuertes, alejarse del ruido y bajar el volumen. Cuando estas opciones no son posibles, los protectores de o\u00eddos (tapones de o\u00eddos u orejeras con protecci\u00f3n auditiva) pueden ayudar. Los protectores de o\u00eddos son aparatos port\u00e1tiles que pueden reducir la intensidad del sonido que entra a los o\u00eddos.",
+      "sourceUrl": "https://www.nidcd.nih.gov/es/espanol/protectores-de-oidos",
+      "targetUrl": null,
+      "dateContentAuthord": "2021-04-07T00:00:00Z",
+      "dateContentUpdated": "2021-04-07T00:00:00Z",
+      "dateContentPublished": "2021-04-07T00:00:00Z",
+      "dateContentReviewed": null,
+      "dateSyndicationVisibile": "2021-07-20T20:32:00Z",
+      "dateSyndicationCaptured": "2021-07-20T20:32:00Z",
+      "dateSyndicationUpdated": "2025-04-29T02:31:13Z",
+      "language": {
+        "id": 2,
+        "name": "Spanish",
+        "isoCode": "spa",
+        "isActive": true
+      },
+      "externalGuid": null,
+      "contentHash": "f1fb053c209d135a2a75921fb7007a40",
+      "source": {
+        "id": 35,
+        "name": "National Institute on Deafness and Other Communication Disorders",
+        "acronym": "NIDCD",
+        "websiteUrl": "https://www.nidcd.nih.gov",
+        "contactEmail": "jason.hamrick@nih.gov",
+        "largeLogoUrl": null,
+        "smallLogoUrl": null
+      },
+      "createdBy": "NIDCD",
+      "campaigns": [],
+      "tags": [
+        {
+          "id": 22786,
+          "name": "Hearing Protectors",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        }
+      ],
+      "tinyUrl": "https://tinyurl.digitalmedia.hhs.gov/2qok",
+      "tinyToken": "2qok",
+      "thumbnailUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19358/thumbnail.jpg",
+      "previewUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19358/preview.jpg",
+      "alternateImages": [
+        {
+          "id": 35609,
+          "name": "Tapones de espuma moldeables",
+          "url": "https://www.nidcd.nih.gov/sites/default/files/Content%20Images/Foam_earplugs.jpg",
+          "height": 667,
+          "width": 1000
+        }
+      ],
+      "attribution": "&lt;div id='hhsAttribution'&gt;Content provided and maintained by &lt;a href='https://www.nidcd.nih.gov' target='_blank'&gt;Health and Human Services&lt;/a&gt; (HHS). Please see our system &lt;a href='http:syndication.hhs.gov' target='_blank'&gt;usage guidelines and disclaimer&lt;/a&gt;.&lt;/div&gt;",
+      "customThumbnailUrl": "https://www.nidcd.nih.gov/sites/default/files/Content%20Images/Foam_earplugs.jpg",
+      "customPreviewUrl": null,
+      "mediaItems": [],
+      "extendedAttributes": {}
+    },
+    {
+      "mediaType": "Html",
+      "id": 19356,
+      "name": "Hearing Protectors",
+      "description": "The best ways to protect your hearing are to avoid exposure to loud sounds, move away from the noise, or turn down the volume. When these options aren\u2019t possible, hearing protectors\u2014earplugs or protective earmuffs\u2014can help. Hearing protectors are wearable devices that can lower the intensity of sound that enters your ears.",
+      "sourceUrl": "https://www.nidcd.nih.gov/health/hearing-protectors",
+      "targetUrl": null,
+      "dateContentAuthord": "2021-03-02T00:00:00Z",
+      "dateContentUpdated": "2021-03-02T00:00:00Z",
+      "dateContentPublished": "2021-03-02T00:00:00Z",
+      "dateContentReviewed": null,
+      "dateSyndicationVisibile": "2021-07-20T20:24:00Z",
+      "dateSyndicationCaptured": "2021-07-20T20:24:00Z",
+      "dateSyndicationUpdated": "2025-04-29T02:31:13Z",
+      "language": {
+        "id": 1,
+        "name": "English",
+        "isoCode": "eng",
+        "isActive": true
+      },
+      "externalGuid": null,
+      "contentHash": "a7cc79ff3d5b5f61f39004fd97819e1d",
+      "source": {
+        "id": 35,
+        "name": "National Institute on Deafness and Other Communication Disorders",
+        "acronym": "NIDCD",
+        "websiteUrl": "https://www.nidcd.nih.gov",
+        "contactEmail": "jason.hamrick@nih.gov",
+        "largeLogoUrl": null,
+        "smallLogoUrl": null
+      },
+      "createdBy": "NIDCD",
+      "campaigns": [],
+      "tags": [
+        {
+          "id": 22786,
+          "name": "Hearing Protectors",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        }
+      ],
+      "tinyUrl": "https://tinyurl.digitalmedia.hhs.gov/2qoi",
+      "tinyToken": "2qoi",
+      "thumbnailUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19356/thumbnail.jpg",
+      "previewUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19356/preview.jpg",
+      "alternateImages": [],
+      "attribution": "&lt;div id='hhsAttribution'&gt;Content provided and maintained by &lt;a href='https://www.nidcd.nih.gov' target='_blank'&gt;Health and Human Services&lt;/a&gt; (HHS). Please see our system &lt;a href='http:syndication.hhs.gov' target='_blank'&gt;usage guidelines and disclaimer&lt;/a&gt;.&lt;/div&gt;",
+      "customThumbnailUrl": "https://www.nidcd.nih.gov/sites/default/files/Content%20Images/Foam_earplugs.jpg",
+      "customPreviewUrl": null,
+      "mediaItems": [],
+      "extendedAttributes": {}
+    },
+    {
+      "mediaType": "Html",
+      "id": 19325,
+      "name": "Unaccompanied Children Information",
+      "description": "The Office of Refugee Resettlement provides funding and oversight to state licensed shelters throughout the United States for unaccompanied children.\r\n",
+      "sourceUrl": "http://www.hhs.gov/programs/social-services/unaccompanied-children/index.html",
+      "targetUrl": null,
+      "dateContentAuthord": "2018-06-27T10:45:00Z",
+      "dateContentUpdated": "2021-02-25T00:00:00Z",
+      "dateContentPublished": "2021-02-25T00:00:00Z",
+      "dateContentReviewed": null,
+      "dateSyndicationVisibile": null,
+      "dateSyndicationCaptured": "2021-01-28T17:25:41Z",
+      "dateSyndicationUpdated": "2021-03-08T15:05:04Z",
+      "language": {
+        "id": 1,
+        "name": "English",
+        "isoCode": "eng",
+        "isActive": true
+      },
+      "externalGuid": null,
+      "contentHash": "79bfd44aefb6edb182c1ad34e9dfe890",
+      "source": {
+        "id": 1,
+        "name": "Health and Human Services",
+        "acronym": "HHS",
+        "websiteUrl": "http://www.hhs.gov",
+        "contactEmail": null,
+        "largeLogoUrl": null,
+        "smallLogoUrl": null
+      },
+      "createdBy": null,
+      "campaigns": [],
+      "tags": [
+        {
+          "id": 88,
+          "name": "information",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 144,
+          "name": "children",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 1914,
+          "name": "unaccompanied",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        }
+      ],
+      "tinyUrl": "https://tinyurl.digitalmedia.hhs.gov/2qng",
+      "tinyToken": "2qng",
+      "thumbnailUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19325/thumbnail.jpg",
+      "previewUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19325/preview.jpg",
+      "alternateImages": [],
+      "attribution": "&lt;div id='hhsAttribution'&gt;Content provided and maintained by &lt;a href='http://www.hhs.gov' target='_blank'&gt;Health and Human Services&lt;/a&gt; (HHS). Please see our system &lt;a href='http:syndication.hhs.gov' target='_blank'&gt;usage guidelines and disclaimer&lt;/a&gt;.&lt;/div&gt;",
+      "customThumbnailUrl": null,
+      "customPreviewUrl": null,
+      "mediaItems": [],
+      "extendedAttributes": {}
+    },
+    {
+      "mediaType": "Html",
+      "id": 16352,
+      "name": "Decision Statistics",
+      "description": "OMHA Decision Statistics for the Level 3 Medicare Appeals Process.\r\n",
+      "sourceUrl": "http://www.hhs.gov/about/agencies/omha/about/current-workload/decision-statistics/index.html",
+      "targetUrl": null,
+      "dateContentAuthord": "2016-10-31T00:00:00Z",
+      "dateContentUpdated": "2021-02-08T00:00:00Z",
+      "dateContentPublished": "2021-02-08T00:00:00Z",
+      "dateContentReviewed": null,
+      "dateSyndicationVisibile": null,
+      "dateSyndicationCaptured": "2016-12-06T17:26:02Z",
+      "dateSyndicationUpdated": "2021-02-08T14:54:06Z",
+      "language": {
+        "id": 1,
+        "name": "English",
+        "isoCode": "eng",
+        "isActive": true
+      },
+      "externalGuid": null,
+      "contentHash": "72e3bf14ce18be7a1cdfd082dee64129",
+      "source": {
+        "id": 1,
+        "name": "Health and Human Services",
+        "acronym": "HHS",
+        "websiteUrl": "http://www.hhs.gov",
+        "contactEmail": null,
+        "largeLogoUrl": null,
+        "smallLogoUrl": null
+      },
+      "createdBy": "Office of Medicare Hearings and Appeals (OMHA)",
+      "campaigns": [],
+      "tags": [
+        {
+          "id": 6089,
+          "name": "health data",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 17674,
+          "name": "General Public",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "Audience",
+            "id": 3
+          }
+        },
+        {
+          "id": 17690,
+          "name": "Academics/Researchers",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "Audience",
+            "id": 3
+          }
+        },
+        {
+          "id": 17691,
+          "name": "Health Care Professionals",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "Audience",
+            "id": 3
+          }
+        },
+        {
+          "id": 17692,
+          "name": "Human Services Professionals",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "Audience",
+            "id": 3
+          }
+        }
+      ],
+      "tinyUrl": "https://tinyurl.digitalmedia.hhs.gov/2o7r",
+      "tinyToken": "2o7r",
+      "thumbnailUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/16352/thumbnail.jpg",
+      "previewUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/16352/preview.jpg",
+      "alternateImages": [],
+      "attribution": "&lt;div id='hhsAttribution'&gt;Content provided and maintained by &lt;a href='http://www.hhs.gov' target='_blank'&gt;Health and Human Services&lt;/a&gt; (HHS). Please see our system &lt;a href='http:syndication.hhs.gov' target='_blank'&gt;usage guidelines and disclaimer&lt;/a&gt;.&lt;/div&gt;",
+      "customThumbnailUrl": null,
+      "customPreviewUrl": null,
+      "mediaItems": [],
+      "extendedAttributes": {}
+    },
+    {
+      "mediaType": "Html",
+      "id": 19326,
+      "name": "Frequently Asked Questions Regarding Unaccompanied Children",
+      "description": "Frequently Asked Questions Regarding Unaccompanied Children\r\n",
+      "sourceUrl": "http://www.hhs.gov/programs/social-services/unaccompanied-children/faqs/index.html",
+      "targetUrl": null,
+      "dateContentAuthord": "2018-07-06T19:30:00Z",
+      "dateContentUpdated": "2021-02-03T00:00:00Z",
+      "dateContentPublished": "2021-02-03T00:00:00Z",
+      "dateContentReviewed": null,
+      "dateSyndicationVisibile": null,
+      "dateSyndicationCaptured": "2021-02-03T19:09:04Z",
+      "dateSyndicationUpdated": "2021-02-03T19:09:04Z",
+      "language": {
+        "id": 1,
+        "name": "English",
+        "isoCode": "eng",
+        "isActive": true
+      },
+      "externalGuid": null,
+      "contentHash": "76a2fdd69035053da8ca5498348f6482",
+      "source": {
+        "id": 1,
+        "name": "Health and Human Services",
+        "acronym": "HHS",
+        "websiteUrl": "http://www.hhs.gov",
+        "contactEmail": null,
+        "largeLogoUrl": null,
+        "smallLogoUrl": null
+      },
+      "createdBy": null,
+      "campaigns": [],
+      "tags": [
+        {
+          "id": 144,
+          "name": "children",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 837,
+          "name": "frequently",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 838,
+          "name": "asked",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 839,
+          "name": "questions",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 924,
+          "name": "regarding",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 1914,
+          "name": "unaccompanied",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        }
+      ],
+      "tinyUrl": "https://tinyurl.digitalmedia.hhs.gov/2qnh",
+      "tinyToken": "2qnh",
+      "thumbnailUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19326/thumbnail.jpg",
+      "previewUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19326/preview.jpg",
+      "alternateImages": [],
+      "attribution": "&lt;div id='hhsAttribution'&gt;Content provided and maintained by &lt;a href='http://www.hhs.gov' target='_blank'&gt;Health and Human Services&lt;/a&gt; (HHS). Please see our system &lt;a href='http:syndication.hhs.gov' target='_blank'&gt;usage guidelines and disclaimer&lt;/a&gt;.&lt;/div&gt;",
+      "customThumbnailUrl": null,
+      "customPreviewUrl": null,
+      "mediaItems": [],
+      "extendedAttributes": {}
+    },
+    {
+      "mediaType": "Html",
+      "id": 18299,
+      "name": "Unaccompanied Children Information",
+      "description": "The Office of Refugee Resettlement provides funding and oversight to state licensed shelters throughout the United States for unaccompanied children.\r\n",
+      "sourceUrl": "http://www.hhs.gov/programs/social-services/unaccompanied-alien-children/index.html",
+      "targetUrl": null,
+      "dateContentAuthord": "2018-06-27T10:45:00Z",
+      "dateContentUpdated": "2021-02-01T00:00:00Z",
+      "dateContentPublished": "2021-02-01T00:00:00Z",
+      "dateContentReviewed": null,
+      "dateSyndicationVisibile": null,
+      "dateSyndicationCaptured": "2018-11-20T22:59:58Z",
+      "dateSyndicationUpdated": "2021-02-03T18:10:24Z",
+      "language": {
+        "id": 1,
+        "name": "English",
+        "isoCode": "eng",
+        "isActive": true
+      },
+      "externalGuid": null,
+      "contentHash": "22d751418ed56750d7cf5e93e467d087",
+      "source": {
+        "id": 1,
+        "name": "Health and Human Services",
+        "acronym": "HHS",
+        "websiteUrl": "http://www.hhs.gov",
+        "contactEmail": null,
+        "largeLogoUrl": null,
+        "smallLogoUrl": null
+      },
+      "createdBy": null,
+      "campaigns": [],
+      "tags": [],
+      "tinyUrl": "https://tinyurl.digitalmedia.hhs.gov/2pkd",
+      "tinyToken": "2pkd",
+      "thumbnailUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/18299/thumbnail.jpg",
+      "previewUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/18299/preview.jpg",
+      "alternateImages": [],
+      "attribution": "&lt;div id='hhsAttribution'&gt;Content provided and maintained by &lt;a href='http://www.hhs.gov' target='_blank'&gt;Health and Human Services&lt;/a&gt; (HHS). Please see our system &lt;a href='http:syndication.hhs.gov' target='_blank'&gt;usage guidelines and disclaimer&lt;/a&gt;.&lt;/div&gt;",
+      "customThumbnailUrl": null,
+      "customPreviewUrl": null,
+      "mediaItems": [],
+      "extendedAttributes": {}
+    },
+    {
+      "mediaType": "Html",
+      "id": 16564,
+      "name": "FAQs - Requesting an ALJ Hearing",
+      "description": "Find answers to questions related to the ALJ hearing process.\r\n",
+      "sourceUrl": "http://www.hhs.gov/about/agencies/omha/filing-an-appeal/faqs/requesting-an-alj-hearing/index.html",
+      "targetUrl": null,
+      "dateContentAuthord": "2013-08-22T00:00:00Z",
+      "dateContentUpdated": "2021-01-05T00:00:00Z",
+      "dateContentPublished": "2021-01-05T00:00:00Z",
+      "dateContentReviewed": null,
+      "dateSyndicationVisibile": null,
+      "dateSyndicationCaptured": "2017-01-23T23:00:20Z",
+      "dateSyndicationUpdated": "2021-05-14T18:39:49Z",
+      "language": {
+        "id": 1,
+        "name": "English",
+        "isoCode": "eng",
+        "isActive": true
+      },
+      "externalGuid": null,
+      "contentHash": "6c8e5fe3625e8f7fd5e01e4bdd586839",
+      "source": {
+        "id": 1,
+        "name": "Health and Human Services",
+        "acronym": "HHS",
+        "websiteUrl": "http://www.hhs.gov",
+        "contactEmail": null,
+        "largeLogoUrl": null,
+        "smallLogoUrl": null
+      },
+      "createdBy": "Office of Medicare Hearings and Appeals (OMHA)",
+      "campaigns": [],
+      "tags": [
+        {
+          "id": 312,
+          "name": "help",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 2350,
+          "name": "FAQ",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 4636,
+          "name": "frequently asked questions",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 16696,
+          "name": "HHS Administrative",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 17674,
+          "name": "General Public",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "Audience",
+            "id": 3
+          }
+        },
+        {
+          "id": 17949,
+          "name": "OMHA",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        }
+      ],
+      "tinyUrl": "https://tinyurl.digitalmedia.hhs.gov/2o9b",
+      "tinyToken": "2o9b",
+      "thumbnailUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/16564/thumbnail.jpg",
+      "previewUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/16564/preview.jpg",
+      "alternateImages": [],
+      "attribution": "&lt;div id='hhsAttribution'&gt;Content provided and maintained by &lt;a href='http://www.hhs.gov' target='_blank'&gt;Health and Human Services&lt;/a&gt; (HHS). Please see our system &lt;a href='http:syndication.hhs.gov' target='_blank'&gt;usage guidelines and disclaimer&lt;/a&gt;.&lt;/div&gt;",
+      "customThumbnailUrl": null,
+      "customPreviewUrl": null,
+      "mediaItems": [],
+      "extendedAttributes": {}
+    },
+    {
+      "mediaType": "Html",
+      "id": 19173,
+      "name": "Executive Leadership Team",
+      "description": "Meet the executive leadership team.",
+      "sourceUrl": "http://www.hhs.gov/about/agencies/omha/about/organizational-chart/meet-the-executive-leadership-team/index.html",
+      "targetUrl": null,
+      "dateContentAuthord": "2013-01-15T00:00:00Z",
+      "dateContentUpdated": "2020-11-16T00:00:00Z",
+      "dateContentPublished": "2020-11-16T00:00:00Z",
+      "dateContentReviewed": null,
+      "dateSyndicationVisibile": null,
+      "dateSyndicationCaptured": "2020-10-27T18:51:35Z",
+      "dateSyndicationUpdated": "2021-01-26T16:29:05Z",
+      "language": {
+        "id": 1,
+        "name": "English",
+        "isoCode": "eng",
+        "isActive": true
+      },
+      "externalGuid": null,
+      "contentHash": "3bcd0b9037c577b809168925ea3da075",
+      "source": {
+        "id": 1,
+        "name": "Health and Human Services",
+        "acronym": "HHS",
+        "websiteUrl": "http://www.hhs.gov",
+        "contactEmail": null,
+        "largeLogoUrl": null,
+        "smallLogoUrl": null
+      },
+      "createdBy": null,
+      "campaigns": [],
+      "tags": [
+        {
+          "id": 198,
+          "name": "leadership",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 15304,
+          "name": "team",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 23378,
+          "name": "executive",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        }
+      ],
+      "tinyUrl": "https://tinyurl.digitalmedia.hhs.gov/2qin",
+      "tinyToken": "2qin",
+      "thumbnailUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19173/thumbnail.jpg",
+      "previewUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19173/preview.jpg",
+      "alternateImages": [],
+      "attribution": "&lt;div id='hhsAttribution'&gt;Content provided and maintained by &lt;a href='http://www.hhs.gov' target='_blank'&gt;Health and Human Services&lt;/a&gt; (HHS). Please see our system &lt;a href='http:syndication.hhs.gov' target='_blank'&gt;usage guidelines and disclaimer&lt;/a&gt;.&lt;/div&gt;",
+      "customThumbnailUrl": null,
+      "customPreviewUrl": null,
+      "mediaItems": [],
+      "extendedAttributes": {}
+    },
+    {
+      "mediaType": "Html",
+      "id": 19355,
+      "name": "Hearing Protectors for a Noisy Planet",
+      "description": "Learn when to use hearing protectors, how to help children use hearing protectors, and what to know about different types of hearing protection.",
+      "sourceUrl": "https://www.noisyplanet.nidcd.nih.gov/publications/hearing-protectors-for-noisy-planet",
+      "targetUrl": null,
+      "dateContentAuthord": "2020-11-16T00:00:00Z",
+      "dateContentUpdated": "2020-11-16T00:00:00Z",
+      "dateContentPublished": "2020-11-16T00:00:00Z",
+      "dateContentReviewed": null,
+      "dateSyndicationVisibile": "2021-07-20T16:18:00Z",
+      "dateSyndicationCaptured": "2021-07-20T16:18:00Z",
+      "dateSyndicationUpdated": "2025-05-01T02:34:45Z",
+      "language": {
+        "id": 1,
+        "name": "English",
+        "isoCode": "eng",
+        "isActive": true
+      },
+      "externalGuid": null,
+      "contentHash": "dadbb7afdf3c3475c9ce75836663144e",
+      "source": {
+        "id": 35,
+        "name": "National Institute on Deafness and Other Communication Disorders",
+        "acronym": "NIDCD",
+        "websiteUrl": "https://www.nidcd.nih.gov",
+        "contactEmail": "jason.hamrick@nih.gov",
+        "largeLogoUrl": null,
+        "smallLogoUrl": null
+      },
+      "createdBy": "NIDCD",
+      "campaigns": [],
+      "tags": [
+        {
+          "id": 21945,
+          "name": "noisyplanet",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 22786,
+          "name": "Hearing Protectors",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        }
+      ],
+      "tinyUrl": "https://tinyurl.digitalmedia.hhs.gov/2qoh",
+      "tinyToken": "2qoh",
+      "thumbnailUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19355/thumbnail.jpg",
+      "previewUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19355/preview.jpg",
+      "alternateImages": [],
+      "attribution": "&lt;div id='hhsAttribution'&gt;Content provided and maintained by &lt;a href='https://www.nidcd.nih.gov' target='_blank'&gt;Health and Human Services&lt;/a&gt; (HHS). Please see our system &lt;a href='http:syndication.hhs.gov' target='_blank'&gt;usage guidelines and disclaimer&lt;/a&gt;.&lt;/div&gt;",
+      "customThumbnailUrl": "https://www.noisyplanet.nidcd.nih.gov/sites/noisyplanet/files/ContentImages/Publications/girl_ear_muffs.jpg",
+      "customPreviewUrl": null,
+      "mediaItems": [],
+      "extendedAttributes": {}
+    },
+    {
+      "mediaType": "Html",
+      "id": 18957,
+      "name": "Report to Congress on Privacy Rule and Security Rule Compliance",
+      "description": "Report to Congress on Privacy Rule and Security Rule Compliance",
+      "sourceUrl": "http://www.hhs.gov/hipaa/for-professionals/compliance-enforcement/reports-congress/index.html",
+      "targetUrl": null,
+      "dateContentAuthord": "2011-09-01T00:00:00Z",
+      "dateContentUpdated": "2020-11-06T00:00:00Z",
+      "dateContentPublished": "2020-11-06T00:00:00Z",
+      "dateContentReviewed": null,
+      "dateSyndicationVisibile": null,
+      "dateSyndicationCaptured": "2020-02-11T20:31:10Z",
+      "dateSyndicationUpdated": "2021-07-23T20:06:39Z",
+      "language": {
+        "id": 1,
+        "name": "English",
+        "isoCode": "eng",
+        "isActive": true
+      },
+      "externalGuid": null,
+      "contentHash": "a55d4c5770a15203844f207655c347a9",
+      "source": {
+        "id": 1,
+        "name": "Health and Human Services",
+        "acronym": "HHS",
+        "websiteUrl": "http://www.hhs.gov",
+        "contactEmail": null,
+        "largeLogoUrl": null,
+        "smallLogoUrl": null
+      },
+      "createdBy": null,
+      "campaigns": [],
+      "tags": [
+        {
+          "id": 22398,
+          "name": "Office of Civil Rights",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        }
+      ],
+      "tinyUrl": "https://tinyurl.digitalmedia.hhs.gov/2qb7",
+      "tinyToken": "2qb7",
+      "thumbnailUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/18957/thumbnail.jpg",
+      "previewUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/18957/preview.jpg",
+      "alternateImages": [],
+      "attribution": "&lt;div id='hhsAttribution'&gt;Content provided and maintained by &lt;a href='http://www.hhs.gov' target='_blank'&gt;Health and Human Services&lt;/a&gt; (HHS). Please see our system &lt;a href='http:syndication.hhs.gov' target='_blank'&gt;usage guidelines and disclaimer&lt;/a&gt;.&lt;/div&gt;",
+      "customThumbnailUrl": null,
+      "customPreviewUrl": null,
+      "mediaItems": [],
+      "extendedAttributes": {}
+    },
+    {
+      "mediaType": "Html",
+      "id": 15851,
+      "name": "Language Assistance Services",
+      "description": "Language assistance services, free of charge, are available in many languages.\r\n",
+      "sourceUrl": "http://www.hhs.gov/civil-rights/for-individuals/language-assistance/index.html",
+      "targetUrl": null,
+      "dateContentAuthord": "2016-07-18T00:00:00Z",
+      "dateContentUpdated": "2020-11-02T00:00:00Z",
+      "dateContentPublished": "2020-11-02T00:00:00Z",
+      "dateContentReviewed": null,
+      "dateSyndicationVisibile": null,
+      "dateSyndicationCaptured": "2016-09-14T16:07:04Z",
+      "dateSyndicationUpdated": "2020-11-02T19:56:08Z",
+      "language": {
+        "id": 1,
+        "name": "English",
+        "isoCode": "eng",
+        "isActive": true
+      },
+      "externalGuid": null,
+      "contentHash": "d96b8174a1e06ddcfd28e12aa8c394c8",
+      "source": {
+        "id": 1,
+        "name": "Health and Human Services",
+        "acronym": "HHS",
+        "websiteUrl": "http://www.hhs.gov",
+        "contactEmail": null,
+        "largeLogoUrl": null,
+        "smallLogoUrl": null
+      },
+      "createdBy": "Office for Civil Rights (OCR)",
+      "campaigns": [],
+      "tags": [
+        {
+          "id": 16028,
+          "name": "civil rights",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 16696,
+          "name": "HHS Administrative",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 17674,
+          "name": "General Public",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "Audience",
+            "id": 3
+          }
+        },
+        {
+          "id": 17694,
+          "name": "languages",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 17695,
+          "name": "Section 1557",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        }
+      ],
+      "tinyUrl": "https://tinyurl.digitalmedia.hhs.gov/2qf3",
+      "tinyToken": "2qf3",
+      "thumbnailUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/15851/thumbnail.jpg",
+      "previewUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/15851/preview.jpg",
+      "alternateImages": [],
+      "attribution": "&lt;div id='hhsAttribution'&gt;Content provided and maintained by &lt;a href='http://www.hhs.gov' target='_blank'&gt;Health and Human Services&lt;/a&gt; (HHS). Please see our system &lt;a href='http:syndication.hhs.gov' target='_blank'&gt;usage guidelines and disclaimer&lt;/a&gt;.&lt;/div&gt;",
+      "customThumbnailUrl": null,
+      "customPreviewUrl": null,
+      "mediaItems": [],
+      "extendedAttributes": {}
+    },
+    {
+      "mediaType": "Html",
+      "id": 18956,
+      "name": "Contact the Office of Medicare Hearings and Appeals",
+      "description": "Find contact information for OMHA headquarters, central operations, and field offices.\r\n",
+      "sourceUrl": "http://www.hhs.gov/about/agencies/omha/contact/index.html",
+      "targetUrl": null,
+      "dateContentAuthord": "2006-07-20T00:00:00Z",
+      "dateContentUpdated": "2020-08-21T00:00:00Z",
+      "dateContentPublished": "2020-08-21T00:00:00Z",
+      "dateContentReviewed": null,
+      "dateSyndicationVisibile": null,
+      "dateSyndicationCaptured": "2019-12-05T17:59:17Z",
+      "dateSyndicationUpdated": "2020-08-21T17:59:09Z",
+      "language": {
+        "id": 1,
+        "name": "English",
+        "isoCode": "eng",
+        "isActive": true
+      },
+      "externalGuid": null,
+      "contentHash": "75d0a57cec62ac4ba0781dc832cc2c88",
+      "source": {
+        "id": 1,
+        "name": "Health and Human Services",
+        "acronym": "HHS",
+        "websiteUrl": "http://www.hhs.gov",
+        "contactEmail": null,
+        "largeLogoUrl": null,
+        "smallLogoUrl": null
+      },
+      "createdBy": null,
+      "campaigns": [],
+      "tags": [
+        {
+          "id": 811,
+          "name": "contact",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 9746,
+          "name": "office",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        }
+      ],
+      "tinyUrl": "https://tinyurl.digitalmedia.hhs.gov/2qb2",
+      "tinyToken": "2qb2",
+      "thumbnailUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/18956/thumbnail.jpg",
+      "previewUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/18956/preview.jpg",
+      "alternateImages": [],
+      "attribution": "&lt;div id='hhsAttribution'&gt;Content provided and maintained by &lt;a href='http://www.hhs.gov' target='_blank'&gt;Health and Human Services&lt;/a&gt; (HHS). Please see our system &lt;a href='http:syndication.hhs.gov' target='_blank'&gt;usage guidelines and disclaimer&lt;/a&gt;.&lt;/div&gt;",
+      "customThumbnailUrl": null,
+      "customPreviewUrl": null,
+      "mediaItems": [],
+      "extendedAttributes": {}
+    },
+    {
+      "mediaType": "Html",
+      "id": 16219,
+      "name": "Average Processing Time By Fiscal Year",
+      "description": "OMHA&nbsp;Average Processing Time By Fiscal Year for Level 3 of the Medicare Appeals Process.\r\n",
+      "sourceUrl": "http://www.hhs.gov/about/agencies/omha/about/current-workload/average-processing-time-by-fiscal-year/index.html",
+      "targetUrl": null,
+      "dateContentAuthord": "2016-10-31T00:00:00Z",
+      "dateContentUpdated": "2020-08-21T00:00:00Z",
+      "dateContentPublished": "2020-08-21T00:00:00Z",
+      "dateContentReviewed": null,
+      "dateSyndicationVisibile": null,
+      "dateSyndicationCaptured": "2016-11-18T13:39:01Z",
+      "dateSyndicationUpdated": "2021-02-08T14:52:34Z",
+      "language": {
+        "id": 1,
+        "name": "English",
+        "isoCode": "eng",
+        "isActive": true
+      },
+      "externalGuid": null,
+      "contentHash": "6ecc53348b9f1d9685e5ee13376ad226",
+      "source": {
+        "id": 1,
+        "name": "Health and Human Services",
+        "acronym": "HHS",
+        "websiteUrl": "http://www.hhs.gov",
+        "contactEmail": null,
+        "largeLogoUrl": null,
+        "smallLogoUrl": null
+      },
+      "createdBy": "Office of Medicare Hearings and Appeals (OMHA)",
+      "campaigns": [],
+      "tags": [
+        {
+          "id": 4044,
+          "name": "Media/Journalists",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "Audience",
+            "id": 3
+          }
+        },
+        {
+          "id": 17674,
+          "name": "General Public",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "Audience",
+            "id": 3
+          }
+        },
+        {
+          "id": 17690,
+          "name": "Academics/Researchers",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "Audience",
+            "id": 3
+          }
+        },
+        {
+          "id": 17691,
+          "name": "Health Care Professionals",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "Audience",
+            "id": 3
+          }
+        },
+        {
+          "id": 17692,
+          "name": "Human Services Professionals",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "Audience",
+            "id": 3
+          }
+        },
+        {
+          "id": 17693,
+          "name": "Public Policy Professionals/Advocates",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "Audience",
+            "id": 3
+          }
+        }
+      ],
+      "tinyUrl": "https://tinyurl.digitalmedia.hhs.gov/2o7q",
+      "tinyToken": "2o7q",
+      "thumbnailUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/16219/thumbnail.jpg",
+      "previewUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/16219/preview.jpg",
+      "alternateImages": [],
+      "attribution": "&lt;div id='hhsAttribution'&gt;Content provided and maintained by &lt;a href='http://www.hhs.gov' target='_blank'&gt;Health and Human Services&lt;/a&gt; (HHS). Please see our system &lt;a href='http:syndication.hhs.gov' target='_blank'&gt;usage guidelines and disclaimer&lt;/a&gt;.&lt;/div&gt;",
+      "customThumbnailUrl": null,
+      "customPreviewUrl": null,
+      "mediaItems": [],
+      "extendedAttributes": {}
+    },
+    {
+      "mediaType": "Html",
+      "id": 16563,
+      "name": "Deputy Chief Administrative Law Judge",
+      "description": "Meet the Deputy Chief Administrative Law Judge\r\n",
+      "sourceUrl": "http://www.hhs.gov/about/agencies/omha/about/organizational-chart/meet-the-deputy-chief-alj/index.html",
+      "targetUrl": null,
+      "dateContentAuthord": "2013-01-15T00:00:00Z",
+      "dateContentUpdated": "2020-06-24T00:00:00Z",
+      "dateContentPublished": "2020-06-24T00:00:00Z",
+      "dateContentReviewed": null,
+      "dateSyndicationVisibile": null,
+      "dateSyndicationCaptured": "2017-01-23T22:49:20Z",
+      "dateSyndicationUpdated": "2020-10-26T23:51:59Z",
+      "language": {
+        "id": 1,
+        "name": "English",
+        "isoCode": "eng",
+        "isActive": true
+      },
+      "externalGuid": null,
+      "contentHash": "467eab3149ebd9422b4b6bee343a9b99",
+      "source": {
+        "id": 1,
+        "name": "Health and Human Services",
+        "acronym": "HHS",
+        "websiteUrl": "http://www.hhs.gov",
+        "contactEmail": null,
+        "largeLogoUrl": null,
+        "smallLogoUrl": null
+      },
+      "createdBy": "Office of Medicare Hearings and Appeals (OMHA)",
+      "campaigns": [],
+      "tags": [
+        {
+          "id": 16696,
+          "name": "HHS Administrative",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 17674,
+          "name": "General Public",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "Audience",
+            "id": 3
+          }
+        }
+      ],
+      "tinyUrl": "https://tinyurl.digitalmedia.hhs.gov/2qfj",
+      "tinyToken": "2qfj",
+      "thumbnailUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/16563/thumbnail.jpg",
+      "previewUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/16563/preview.jpg",
+      "alternateImages": [],
+      "attribution": "&lt;div id='hhsAttribution'&gt;Content provided and maintained by &lt;a href='http://www.hhs.gov' target='_blank'&gt;Health and Human Services&lt;/a&gt; (HHS). Please see our system &lt;a href='http:syndication.hhs.gov' target='_blank'&gt;usage guidelines and disclaimer&lt;/a&gt;.&lt;/div&gt;",
+      "customThumbnailUrl": null,
+      "customPreviewUrl": null,
+      "mediaItems": [],
+      "extendedAttributes": {}
+    },
+    {
+      "mediaType": "Html",
+      "id": 19071,
+      "name": "How Does Noise Damage Your Hearing?",
+      "description": "Sounds that are too loud for too long can damage your hearing permanently. This is called noise-induced hearing loss (NIHL). The louder the noise, the faster it can damage your hearing.",
+      "sourceUrl": "https://www.noisyplanet.nidcd.nih.gov/publications/how-does-noise-damage-your-hearing",
+      "targetUrl": null,
+      "dateContentAuthord": null,
+      "dateContentUpdated": "2020-06-10T00:00:00Z",
+      "dateContentPublished": "2020-06-10T00:00:00Z",
+      "dateContentReviewed": "2020-06-10T00:00:00Z",
+      "dateSyndicationVisibile": "2020-06-19T20:29:00Z",
+      "dateSyndicationCaptured": "2020-06-19T20:29:00Z",
+      "dateSyndicationUpdated": "2025-04-30T02:23:33Z",
+      "language": {
+        "id": 1,
+        "name": "English",
+        "isoCode": "eng",
+        "isActive": true
+      },
+      "externalGuid": null,
+      "contentHash": "0b27ff0104b50397716cffe894e18002",
+      "source": {
+        "id": 35,
+        "name": "National Institute on Deafness and Other Communication Disorders",
+        "acronym": "NIDCD",
+        "websiteUrl": "https://www.nidcd.nih.gov",
+        "contactEmail": "jason.hamrick@nih.gov",
+        "largeLogoUrl": null,
+        "smallLogoUrl": null
+      },
+      "createdBy": null,
+      "campaigns": [],
+      "tags": [
+        {
+          "id": 110,
+          "name": "hearing",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 112,
+          "name": "noise",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 21945,
+          "name": "noisyplanet",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        }
+      ],
+      "tinyUrl": "https://tinyurl.digitalmedia.hhs.gov/2qfa",
+      "tinyToken": "2qfa",
+      "thumbnailUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19071/thumbnail.jpg",
+      "previewUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19071/preview.jpg",
+      "alternateImages": [
+        {
+          "id": 35604,
+          "name": "Noisy Planet Logo",
+          "url": "https://www.noisyplanet.nidcd.nih.gov/sites/noisyplanet/files/SiteBrandingImages/NPlogo_Bigger.png",
+          "height": null,
+          "width": null
+        }
+      ],
+      "attribution": "&lt;div id='hhsAttribution'&gt;Content provided and maintained by &lt;a href='https://www.nidcd.nih.gov' target='_blank'&gt;Health and Human Services&lt;/a&gt; (HHS). Please see our system &lt;a href='http:syndication.hhs.gov' target='_blank'&gt;usage guidelines and disclaimer&lt;/a&gt;.&lt;/div&gt;",
+      "customThumbnailUrl": "https://www.noisyplanet.nidcd.nih.gov/sites/noisyplanet/files/SiteBrandingImages/NPlogo_Bigger.png",
+      "customPreviewUrl": null,
+      "mediaItems": [],
+      "extendedAttributes": {}
+    },
+    {
+      "mediaType": "Html",
+      "id": 19072,
+      "name": "C\u00f3mo puede el ruido afectar la audici\u00f3n",
+      "description": "Los sonidos pueden causar da\u00f1o permanente a la audici\u00f3n cuando son demasiado fuertes y duran mucho tiempo. Esto se llama p\u00e9rdida de audici\u00f3n inducida por el ruido (noise-induced hearing loss, NIHL).",
+      "sourceUrl": "https://www.noisyplanet.nidcd.nih.gov/espanol/publications/como-puede-el-ruido-afectar-la-audicion",
+      "targetUrl": null,
+      "dateContentAuthord": null,
+      "dateContentUpdated": "2020-06-10T00:00:00Z",
+      "dateContentPublished": "2020-06-10T00:00:00Z",
+      "dateContentReviewed": "2020-06-10T00:00:00Z",
+      "dateSyndicationVisibile": "2020-06-19T20:38:00Z",
+      "dateSyndicationCaptured": "2020-06-19T20:38:00Z",
+      "dateSyndicationUpdated": "2025-04-30T02:23:50Z",
+      "language": {
+        "id": 2,
+        "name": "Spanish",
+        "isoCode": "spa",
+        "isActive": true
+      },
+      "externalGuid": null,
+      "contentHash": "f07807901d881ff8abfa3bb0397d2d4d",
+      "source": {
+        "id": 35,
+        "name": "National Institute on Deafness and Other Communication Disorders",
+        "acronym": "NIDCD",
+        "websiteUrl": "https://www.nidcd.nih.gov",
+        "contactEmail": "jason.hamrick@nih.gov",
+        "largeLogoUrl": null,
+        "smallLogoUrl": null
+      },
+      "createdBy": null,
+      "campaigns": [],
+      "tags": [
+        {
+          "id": 110,
+          "name": "hearing",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 112,
+          "name": "noise",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 21945,
+          "name": "noisyplanet",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        }
+      ],
+      "tinyUrl": "https://tinyurl.digitalmedia.hhs.gov/2qfb",
+      "tinyToken": "2qfb",
+      "thumbnailUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19072/thumbnail.jpg",
+      "previewUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19072/preview.jpg",
+      "alternateImages": [
+        {
+          "id": 35605,
+          "name": "Noisy Planet Logo",
+          "url": "https://www.noisyplanet.nidcd.nih.gov/sites/noisyplanet/files/SiteBrandingImages/NPlogo_Bigger.png",
+          "height": null,
+          "width": null
+        }
+      ],
+      "attribution": "&lt;div id='hhsAttribution'&gt;Content provided and maintained by &lt;a href='https://www.nidcd.nih.gov' target='_blank'&gt;Health and Human Services&lt;/a&gt; (HHS). Please see our system &lt;a href='http:syndication.hhs.gov' target='_blank'&gt;usage guidelines and disclaimer&lt;/a&gt;.&lt;/div&gt;",
+      "customThumbnailUrl": "https://www.noisyplanet.nidcd.nih.gov/sites/noisyplanet/files/SiteBrandingImages/NPlogo_Bigger.png",
+      "customPreviewUrl": null,
+      "mediaItems": [],
+      "extendedAttributes": {}
+    },
+    {
+      "mediaType": "Html",
+      "id": 19069,
+      "name": "When it is Loud, Protect Your Hearing: Sound Advice for Young Ears",
+      "description": "It\u2019s a noisy planet! Many sounds are safe, but others can damage your hearing. This damage is called noise-induced hearing loss, or NIHL for short.",
+      "sourceUrl": "https://www.noisyplanet.nidcd.nih.gov/publications/when-its-loud-protect-your-hearing#",
+      "targetUrl": null,
+      "dateContentAuthord": null,
+      "dateContentUpdated": "2020-06-10T00:00:00Z",
+      "dateContentPublished": "2020-06-10T00:00:00Z",
+      "dateContentReviewed": "2020-06-10T00:00:00Z",
+      "dateSyndicationVisibile": "2020-06-19T19:34:00Z",
+      "dateSyndicationCaptured": "2020-06-19T19:34:00Z",
+      "dateSyndicationUpdated": "2025-04-30T02:23:01Z",
+      "language": {
+        "id": 1,
+        "name": "English",
+        "isoCode": "eng",
+        "isActive": true
+      },
+      "externalGuid": null,
+      "contentHash": "272f2fbd05ccab94f4e5838c370747c1",
+      "source": {
+        "id": 35,
+        "name": "National Institute on Deafness and Other Communication Disorders",
+        "acronym": "NIDCD",
+        "websiteUrl": "https://www.nidcd.nih.gov",
+        "contactEmail": "jason.hamrick@nih.gov",
+        "largeLogoUrl": null,
+        "smallLogoUrl": null
+      },
+      "createdBy": null,
+      "campaigns": [],
+      "tags": [
+        {
+          "id": 110,
+          "name": "hearing",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 112,
+          "name": "noise",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 17679,
+          "name": "hearing protection",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        }
+      ],
+      "tinyUrl": "https://tinyurl.digitalmedia.hhs.gov/2qf8",
+      "tinyToken": "2qf8",
+      "thumbnailUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19069/thumbnail.jpg",
+      "previewUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19069/preview.jpg",
+      "alternateImages": [
+        {
+          "id": 35602,
+          "name": "Noisy Planet Logo",
+          "url": "https://www.noisyplanet.nidcd.nih.gov/sites/noisyplanet/files/SiteBrandingImages/NPlogo_Bigger.png",
+          "height": null,
+          "width": null
+        }
+      ],
+      "attribution": "&lt;div id='hhsAttribution'&gt;Content provided and maintained by &lt;a href='https://www.nidcd.nih.gov' target='_blank'&gt;Health and Human Services&lt;/a&gt; (HHS). Please see our system &lt;a href='http:syndication.hhs.gov' target='_blank'&gt;usage guidelines and disclaimer&lt;/a&gt;.&lt;/div&gt;",
+      "customThumbnailUrl": "https://www.noisyplanet.nidcd.nih.gov/sites/noisyplanet/files/SiteBrandingImages/NPlogo_Bigger.png",
+      "customPreviewUrl": null,
+      "mediaItems": [],
+      "extendedAttributes": {}
+    },
+    {
+      "mediaType": "Html",
+      "id": 19067,
+      "name": "How Loud Is Too Loud?",
+      "description": "We hear many types of sounds every day. While many of those sounds are safe, sounds that are too loud and last too long can permanently damage your hearing. The louder the sound, the more damage it can cause to your hearing, and the faster this damage will occur. This damage is called noise-induced hearing loss (NIHL).",
+      "sourceUrl": "https://www.noisyplanet.nidcd.nih.gov/publications/how-loud-is-too-loud",
+      "targetUrl": null,
+      "dateContentAuthord": null,
+      "dateContentUpdated": "2020-06-10T00:00:00Z",
+      "dateContentPublished": "2020-06-10T00:00:00Z",
+      "dateContentReviewed": "2020-06-10T00:00:00Z",
+      "dateSyndicationVisibile": "2020-06-15T15:21:00Z",
+      "dateSyndicationCaptured": "2020-06-15T15:21:00Z",
+      "dateSyndicationUpdated": "2025-04-30T02:22:44Z",
+      "language": {
+        "id": 1,
+        "name": "English",
+        "isoCode": "eng",
+        "isActive": true
+      },
+      "externalGuid": null,
+      "contentHash": "c93fef2d68ab4dbd5ee93bbc5980a59c",
+      "source": {
+        "id": 35,
+        "name": "National Institute on Deafness and Other Communication Disorders",
+        "acronym": "NIDCD",
+        "websiteUrl": "https://www.nidcd.nih.gov",
+        "contactEmail": "jason.hamrick@nih.gov",
+        "largeLogoUrl": null,
+        "smallLogoUrl": null
+      },
+      "createdBy": "NIDCD",
+      "campaigns": [],
+      "tags": [
+        {
+          "id": 110,
+          "name": "hearing",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 112,
+          "name": "noise",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 20656,
+          "name": "How Loud is Too Loud",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 21945,
+          "name": "noisyplanet",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 21946,
+          "name": "Measure Sound",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        }
+      ],
+      "tinyUrl": "https://tinyurl.digitalmedia.hhs.gov/2qf6",
+      "tinyToken": "2qf6",
+      "thumbnailUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19067/thumbnail.jpg",
+      "previewUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19067/preview.jpg",
+      "alternateImages": [
+        {
+          "id": 35601,
+          "name": "Noisy Planet Logo",
+          "url": "https://www.noisyplanet.nidcd.nih.gov/sites/noisyplanet/files/ContentImages/NP-logo.jpg",
+          "height": 200,
+          "width": 200
+        }
+      ],
+      "attribution": "&lt;div id='hhsAttribution'&gt;Content provided and maintained by &lt;a href='https://www.nidcd.nih.gov' target='_blank'&gt;Health and Human Services&lt;/a&gt; (HHS). Please see our system &lt;a href='http:syndication.hhs.gov' target='_blank'&gt;usage guidelines and disclaimer&lt;/a&gt;.&lt;/div&gt;",
+      "customThumbnailUrl": "https://www.noisyplanet.nidcd.nih.gov/sites/noisyplanet/files/ContentImages/NP-logo.jpg",
+      "customPreviewUrl": null,
+      "mediaItems": [],
+      "extendedAttributes": {}
+    },
+    {
+      "mediaType": "Html",
+      "id": 19070,
+      "name": "Protege tu audici\u00f3n del ruido: Consejos para los o\u00eddos j\u00f3venes",
+      "description": "\u00a1El mundo es ruidoso! Muchos sonidos son seguros, pero otros pueden da\u00f1ar tu audici\u00f3n. Este tipo de da\u00f1o se llama p\u00e9rdida de audici\u00f3n inducida por ruido.",
+      "sourceUrl": "https://www.noisyplanet.nidcd.nih.gov/espanol/publications/protege-tu-audicion-del-ruido",
+      "targetUrl": null,
+      "dateContentAuthord": null,
+      "dateContentUpdated": "2020-06-10T00:00:00Z",
+      "dateContentPublished": "2020-06-10T00:00:00Z",
+      "dateContentReviewed": "2020-06-10T00:00:00Z",
+      "dateSyndicationVisibile": "2020-06-19T20:11:00Z",
+      "dateSyndicationCaptured": "2020-06-19T20:11:00Z",
+      "dateSyndicationUpdated": "2025-04-30T02:23:17Z",
+      "language": {
+        "id": 2,
+        "name": "Spanish",
+        "isoCode": "spa",
+        "isActive": true
+      },
+      "externalGuid": null,
+      "contentHash": "d34b67eea314a72a33492fb76a2489ef",
+      "source": {
+        "id": 35,
+        "name": "National Institute on Deafness and Other Communication Disorders",
+        "acronym": "NIDCD",
+        "websiteUrl": "https://www.nidcd.nih.gov",
+        "contactEmail": "jason.hamrick@nih.gov",
+        "largeLogoUrl": null,
+        "smallLogoUrl": null
+      },
+      "createdBy": null,
+      "campaigns": [],
+      "tags": [
+        {
+          "id": 110,
+          "name": "hearing",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 112,
+          "name": "noise",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 17679,
+          "name": "hearing protection",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 21945,
+          "name": "noisyplanet",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        }
+      ],
+      "tinyUrl": "https://tinyurl.digitalmedia.hhs.gov/2qf9",
+      "tinyToken": "2qf9",
+      "thumbnailUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19070/thumbnail.jpg",
+      "previewUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19070/preview.jpg",
+      "alternateImages": [
+        {
+          "id": 35603,
+          "name": "Noisy Planet Logo",
+          "url": "https://www.noisyplanet.nidcd.nih.gov/sites/noisyplanet/files/SiteBrandingImages/NPlogo_Bigger.png",
+          "height": null,
+          "width": null
+        }
+      ],
+      "attribution": "&lt;div id='hhsAttribution'&gt;Content provided and maintained by &lt;a href='https://www.nidcd.nih.gov' target='_blank'&gt;Health and Human Services&lt;/a&gt; (HHS). Please see our system &lt;a href='http:syndication.hhs.gov' target='_blank'&gt;usage guidelines and disclaimer&lt;/a&gt;.&lt;/div&gt;",
+      "customThumbnailUrl": "https://www.noisyplanet.nidcd.nih.gov/sites/noisyplanet/files/SiteBrandingImages/NPlogo_Bigger.png",
+      "customPreviewUrl": null,
+      "mediaItems": [],
+      "extendedAttributes": {}
+    },
+    {
+      "mediaType": "Html",
+      "id": 19066,
+      "name": "\u00bfCu\u00e1ndo el sonido es demasiado alto?",
+      "description": "O\u00edmos muchos tipos de sonidos todos los d\u00edas. Si bien muchos de esos sonidos son seguros, los sonidos que son demasiado fuertes y duran demasiado tiempo pueden da\u00f1ar la audici\u00f3n de manera permanente. Mientras m\u00e1s alto sea el sonido, mayor ser\u00e1 el da\u00f1o a la audici\u00f3n y m\u00e1s r\u00e1pido podr\u00eda ocurrir el da\u00f1o. Esto se llama p\u00e9rdida de audici\u00f3n inducida por el ruido (noise-induced hearing loss, NIHL).",
+      "sourceUrl": "https://www.noisyplanet.nidcd.nih.gov/espanol/publications/cuando-el-sonido-es-demasiado-alto",
+      "targetUrl": null,
+      "dateContentAuthord": null,
+      "dateContentUpdated": "2020-06-10T00:00:00Z",
+      "dateContentPublished": "2020-06-10T00:00:00Z",
+      "dateContentReviewed": "2020-06-10T00:00:00Z",
+      "dateSyndicationVisibile": "2020-06-15T14:05:00Z",
+      "dateSyndicationCaptured": "2020-06-15T14:05:00Z",
+      "dateSyndicationUpdated": "2025-04-30T02:22:28Z",
+      "language": {
+        "id": 2,
+        "name": "Spanish",
+        "isoCode": "spa",
+        "isActive": true
+      },
+      "externalGuid": null,
+      "contentHash": "31c156f00360e11a53e86511d067b7a0",
+      "source": {
+        "id": 35,
+        "name": "National Institute on Deafness and Other Communication Disorders",
+        "acronym": "NIDCD",
+        "websiteUrl": "https://www.nidcd.nih.gov",
+        "contactEmail": "jason.hamrick@nih.gov",
+        "largeLogoUrl": null,
+        "smallLogoUrl": null
+      },
+      "createdBy": "NIDCD",
+      "campaigns": [],
+      "tags": [
+        {
+          "id": 110,
+          "name": "hearing",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 112,
+          "name": "noise",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 20656,
+          "name": "How Loud is Too Loud",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 21945,
+          "name": "noisyplanet",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        },
+        {
+          "id": 21946,
+          "name": "Measure Sound",
+          "language": {
+            "isoCode": "eng",
+            "name": "English",
+            "id": 1,
+            "isActive": true
+          },
+          "type": {
+            "name": "General",
+            "id": 1
+          }
+        }
+      ],
+      "tinyUrl": "https://tinyurl.digitalmedia.hhs.gov/2qf5",
+      "tinyToken": "2qf5",
+      "thumbnailUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19066/thumbnail.jpg",
+      "previewUrl": "https://api.digitalmedia.hhs.gov/api/v2/resources/media/19066/preview.jpg",
+      "alternateImages": [
+        {
+          "id": 35600,
+          "name": "Noisy Planet Logo",
+          "url": "https://www.noisyplanet.nidcd.nih.gov/sites/noisyplanet/files/ContentImages/NP-logo.jpg",
+          "height": 200,
+          "width": 200
+        }
+      ],
+      "attribution": "&lt;div id='hhsAttribution'&gt;Content provided and maintained by &lt;a href='https://www.nidcd.nih.gov' target='_blank'&gt;Health and Human Services&lt;/a&gt; (HHS). Please see our system &lt;a href='http:syndication.hhs.gov' target='_blank'&gt;usage guidelines and disclaimer&lt;/a&gt;.&lt;/div&gt;",
+      "customThumbnailUrl": "https://www.noisyplanet.nidcd.nih.gov/sites/noisyplanet/files/ContentImages/NP-logo.jpg",
+      "customPreviewUrl": null,
+      "mediaItems": [],
+      "extendedAttributes": {}
+    }
+  ]
+}

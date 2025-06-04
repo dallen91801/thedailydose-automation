@@ -1,0 +1,355 @@
+2025-06-04 04:00:02,173 [INFO] Fetching feed: HHS
+2025-06-04 04:00:02,314 [WARNING] [❌] HHS: NO entries
+2025-06-04 04:00:02,314 [INFO] Fetching feed: CDC
+2025-06-04 04:00:05,636 [INFO] Fetching feed: FDA
+2025-06-04 04:00:05,865 [WARNING] [❌] FDA: NO entries
+2025-06-04 04:00:05,865 [INFO] Fetching feed: CMS
+2025-06-04 04:00:06,277 [WARNING] [❌] CMS: NO entries
+2025-06-04 04:00:06,277 [INFO] Fetching feed: NIH
+2025-06-04 04:00:06,734 [INFO] Fetching feed: HealthCanada
+2025-06-04 04:00:09,855 [WARNING] [❌] HealthCanada: NO entries
+2025-06-04 04:00:09,855 [INFO] Fetching feed: AHA
+2025-06-04 04:00:10,850 [WARNING] [❌] AHA: NO entries
+2025-06-04 04:00:10,851 [INFO] Fetching feed: KFF
+2025-06-04 04:00:10,966 [INFO] Fetching feed: HealthAffairs
+2025-06-04 04:00:11,157 [INFO] Fetching feed: BeckersHospitalReview
+2025-06-04 04:00:11,440 [INFO] Fetching feed: THCB
+2025-06-04 04:00:11,839 [INFO] Fetching feed: HealthcareDive
+2025-06-04 04:00:12,325 [INFO] Fetching feed: MedPageToday
+2025-06-04 04:00:12,363 [WARNING] [❌] MedPageToday: NO entries
+2025-06-04 04:00:12,364 [INFO] Fetching feed: STATNews
+2025-06-04 04:00:12,750 [INFO] Fetching feed: NEJM
+2025-06-04 04:00:12,795 [WARNING] [❌] NEJM: NO entries
+2025-06-04 04:00:12,795 [INFO] Fetching feed: JAMA
+2025-06-04 04:00:13,435 [WARNING] [❌] JAMA: NO entries
+2025-06-04 04:00:13,435 [INFO] Fetching feed: Healio
+2025-06-04 04:00:14,294 [WARNING] [❌] Healio: NO entries
+2025-06-04 04:00:14,294 [INFO] Fetching feed: ModernHealthcare
+2025-06-04 04:00:14,359 [WARNING] [❌] ModernHealthcare: NO entries
+2025-06-04 04:00:14,360 [INFO] Fetching feed: FiercePharma
+2025-06-04 04:00:14,920 [WARNING] [❌] FiercePharma: NO entries
+2025-06-04 04:00:14,920 [INFO] Fetching feed: FierceBiotech
+2025-06-04 04:00:15,574 [WARNING] [❌] FierceBiotech: NO entries
+2025-06-04 04:00:15,574 [INFO] Fetching feed: EndpointsNews
+2025-06-04 04:00:16,111 [INFO] Fetching feed: BioPharmaDive
+2025-06-04 04:00:16,529 [INFO] Fetching feed: Medscape
+2025-06-04 04:00:16,804 [WARNING] [❌] Medscape: NO entries
+2025-06-04 04:00:16,805 [INFO] Fetching feed: Reuters_HealthNews
+2025-06-04 04:00:16,864 [WARNING] [❌] Reuters_HealthNews: NO entries
+2025-06-04 04:00:16,864 [INFO] Fetching feed: EpochTimes_Health
+2025-06-04 04:00:18,237 [WARNING] [❌] EpochTimes_Health: NO entries
+2025-06-04 04:00:18,237 [INFO] Fetching feed: EpochTimes_Science
+2025-06-04 04:00:19,112 [WARNING] [❌] EpochTimes_Science: NO entries
+2025-06-04 04:00:19,112 [INFO] Fetching feed: WHO_EMRO_News
+2025-06-04 04:00:19,604 [WARNING] [❌] WHO_EMRO_News: NO entries
+2025-06-04 04:00:19,604 [INFO] Fetching feed: WHO_EMRO_Publications
+2025-06-04 04:00:20,073 [WARNING] [❌] WHO_EMRO_Publications: NO entries
+2025-06-04 04:00:20,073 [INFO] Fetching feed: WHO_EMRO_Events
+2025-06-04 04:00:20,944 [WARNING] [❌] WHO_EMRO_Events: NO entries
+2025-06-04 04:00:20,944 [INFO] Fetching feed: WHO_EMRO_Statements
+2025-06-04 04:00:21,431 [WARNING] [❌] WHO_EMRO_Statements: NO entries
+2025-06-04 04:00:21,431 [INFO] Fetching feed: WHO_EMRO_PressReleases
+2025-06-04 04:00:21,932 [WARNING] [❌] WHO_EMRO_PressReleases: NO entries
+2025-06-04 04:00:21,933 [INFO] Fetching feed: HealthcareITNews
+2025-06-04 04:00:22,107 [WARNING] [❌] HealthcareITNews: NO entries
+2025-06-04 04:00:22,107 [INFO] Fetching feed: HealthITAnalytics
+2025-06-04 04:00:22,794 [WARNING] [❌] HealthITAnalytics: NO entries
+2025-06-04 04:00:22,794 [INFO] Fetching feed: HIMSS
+2025-06-04 04:00:23,139 [INFO] Fetching feed: HealthcareInformatics
+2025-06-04 04:00:23,496 [WARNING] [❌] HealthcareInformatics: NO entries
+2025-06-04 04:00:23,497 [INFO] Fetching feed: MedTechDive
+2025-06-04 04:00:23,851 [WARNING] [❌] MedTechDive: NO entries
+2025-06-04 04:00:23,851 [INFO] Fetching feed: FierceHealthcare
+2025-06-04 04:00:24,197 [WARNING] [❌] FierceHealthcare: NO entries
+2025-06-04 04:00:24,198 [INFO] Fetching feed: HealthDataManagement
+2025-06-04 04:00:24,400 [WARNING] [❌] HealthDataManagement: NO entries
+2025-06-04 04:00:24,400 [INFO] Fetching feed: JournalAHIMA
+2025-06-04 04:00:24,771 [WARNING] [❌] JournalAHIMA: NO entries
+2025-06-04 04:00:24,772 [INFO] Fetching feed: HealthcareITToday
+2025-06-04 04:00:26,101 [INFO] Fetching feed: ONC
+2025-06-04 04:00:26,895 [WARNING] [❌] ONC: NO entries
+2025-06-04 04:00:26,895 [INFO] Fetching feed: MedCityNews
+2025-06-04 04:00:27,283 [INFO] Fetching feed: HITConsultant
+2025-06-04 04:00:27,574 [INFO] Fetching feed: HealthTechMagazine
+2025-06-04 04:00:28,006 [WARNING] [❌] HealthTechMagazine: NO entries
+2025-06-04 04:00:28,007 [INFO] Fetching feed: MobiHealthNews
+2025-06-04 04:00:28,615 [WARNING] [❌] MobiHealthNews: NO entries
+2025-06-04 04:00:28,615 [INFO] Fetching feed: HealthcareEconomist
+2025-06-04 04:00:28,755 [WARNING] [❌] HealthcareEconomist: NO entries
+2025-06-04 04:00:28,756 [INFO] Fetching feed: HealthITSecurity
+2025-06-04 04:00:29,444 [WARNING] [❌] HealthITSecurity: NO entries
+2025-06-04 04:00:29,444 [INFO] Fetching feed: HealthcareFinanceNews
+2025-06-04 04:00:29,717 [WARNING] [❌] HealthcareFinanceNews: NO entries
+2025-06-04 04:00:29,718 [INFO] Fetching feed: NEJMCatalyst
+2025-06-04 04:00:29,903 [WARNING] [❌] NEJMCatalyst: NO entries
+2025-06-04 04:00:29,903 [INFO] Fetching feed: HarvardHealthBlog
+2025-06-04 04:00:30,386 [WARNING] [❌] HarvardHealthBlog: NO entries
+2025-06-04 04:00:30,386 [INFO] Fetching feed: DigitalHealth
+2025-06-04 04:00:33,736 [INFO] ✅ Saved 75 articles to rss_articles.json
+2025-06-04 11:23:19,058 [INFO] Fetching feed: HHS
+2025-06-04 11:23:19,140 [WARNING] [❌] HHS: NO entries
+2025-06-04 11:23:19,140 [INFO] Fetching feed: CDC
+2025-06-04 11:23:26,838 [INFO] Fetching feed: FDA
+2025-06-04 11:23:27,092 [WARNING] [❌] FDA: NO entries
+2025-06-04 11:23:27,093 [INFO] Fetching feed: CMS
+2025-06-04 11:23:27,346 [WARNING] [❌] CMS: NO entries
+2025-06-04 11:23:27,346 [INFO] Fetching feed: NIH
+2025-06-04 11:23:27,588 [WARNING] [❌] NIH: NO entries
+2025-06-04 11:23:27,588 [INFO] Fetching feed: HealthCanada
+2025-06-04 11:23:31,812 [WARNING] [❌] HealthCanada: NO entries
+2025-06-04 11:23:31,812 [INFO] Fetching feed: AHA
+2025-06-04 11:23:32,568 [WARNING] [❌] AHA: NO entries
+2025-06-04 11:23:32,569 [INFO] Fetching feed: KFF
+2025-06-04 11:23:32,974 [INFO] Fetching feed: HealthAffairs
+2025-06-04 11:23:33,163 [INFO] Fetching feed: BeckersHospitalReview
+2025-06-04 11:23:34,108 [INFO] Fetching feed: THCB
+2025-06-04 11:23:34,436 [INFO] Fetching feed: HealthcareDive
+2025-06-04 11:23:34,855 [INFO] Fetching feed: MedPageToday
+2025-06-04 11:23:34,893 [WARNING] [❌] MedPageToday: NO entries
+2025-06-04 11:23:34,893 [INFO] Fetching feed: STATNews
+2025-06-04 11:23:35,228 [INFO] Fetching feed: NEJM
+2025-06-04 11:23:35,270 [WARNING] [❌] NEJM: NO entries
+2025-06-04 11:23:35,271 [INFO] Fetching feed: JAMA
+2025-06-04 11:23:35,847 [WARNING] [❌] JAMA: NO entries
+2025-06-04 11:23:35,848 [INFO] Fetching feed: Healio
+2025-06-04 11:23:36,663 [WARNING] [❌] Healio: NO entries
+2025-06-04 11:23:36,663 [INFO] Fetching feed: ModernHealthcare
+2025-06-04 11:23:36,736 [WARNING] [❌] ModernHealthcare: NO entries
+2025-06-04 11:23:36,736 [INFO] Fetching feed: FiercePharma
+2025-06-04 11:23:37,471 [WARNING] [❌] FiercePharma: NO entries
+2025-06-04 11:23:37,472 [INFO] Fetching feed: FierceBiotech
+2025-06-04 11:23:38,272 [WARNING] [❌] FierceBiotech: NO entries
+2025-06-04 11:23:38,272 [INFO] Fetching feed: EndpointsNews
+2025-06-04 11:23:38,619 [INFO] Fetching feed: BioPharmaDive
+2025-06-04 11:23:39,053 [INFO] Fetching feed: Medscape
+2025-06-04 11:23:39,387 [WARNING] [❌] Medscape: NO entries
+2025-06-04 11:23:39,387 [INFO] Fetching feed: Reuters_HealthNews
+2025-06-04 11:23:39,443 [WARNING] [❌] Reuters_HealthNews: NO entries
+2025-06-04 11:23:39,443 [INFO] Fetching feed: EpochTimes_Health
+2025-06-04 11:23:40,813 [WARNING] [❌] EpochTimes_Health: NO entries
+2025-06-04 11:23:40,814 [INFO] Fetching feed: EpochTimes_Science
+2025-06-04 11:23:41,654 [WARNING] [❌] EpochTimes_Science: NO entries
+2025-06-04 11:23:41,654 [INFO] Fetching feed: WHO_EMRO_News
+2025-06-04 11:23:42,459 [WARNING] [❌] WHO_EMRO_News: NO entries
+2025-06-04 11:23:42,460 [INFO] Fetching feed: WHO_EMRO_Publications
+2025-06-04 11:23:43,072 [WARNING] [❌] WHO_EMRO_Publications: NO entries
+2025-06-04 11:23:43,073 [INFO] Fetching feed: WHO_EMRO_Events
+2025-06-04 11:23:43,710 [WARNING] [❌] WHO_EMRO_Events: NO entries
+2025-06-04 11:23:43,710 [INFO] Fetching feed: WHO_EMRO_Statements
+2025-06-04 11:23:44,326 [WARNING] [❌] WHO_EMRO_Statements: NO entries
+2025-06-04 11:23:44,327 [INFO] Fetching feed: WHO_EMRO_PressReleases
+2025-06-04 11:23:44,925 [WARNING] [❌] WHO_EMRO_PressReleases: NO entries
+2025-06-04 11:23:44,925 [INFO] Fetching feed: HealthcareITNews
+2025-06-04 11:23:45,810 [WARNING] [❌] HealthcareITNews: NO entries
+2025-06-04 11:23:45,810 [INFO] Fetching feed: HealthITAnalytics
+2025-06-04 11:23:46,273 [WARNING] [❌] HealthITAnalytics: NO entries
+2025-06-04 11:23:46,273 [INFO] Fetching feed: HIMSS
+2025-06-04 11:23:46,627 [INFO] Fetching feed: HealthcareInformatics
+2025-06-04 11:23:47,009 [WARNING] [❌] HealthcareInformatics: NO entries
+2025-06-04 11:23:47,009 [INFO] Fetching feed: MedTechDive
+2025-06-04 11:23:47,534 [WARNING] [❌] MedTechDive: NO entries
+2025-06-04 11:23:47,534 [INFO] Fetching feed: FierceHealthcare
+2025-06-04 11:23:48,237 [WARNING] [❌] FierceHealthcare: NO entries
+2025-06-04 11:23:48,238 [INFO] Fetching feed: HealthDataManagement
+2025-06-04 11:23:48,496 [WARNING] [❌] HealthDataManagement: NO entries
+2025-06-04 11:23:48,496 [INFO] Fetching feed: JournalAHIMA
+2025-06-04 11:23:48,906 [WARNING] [❌] JournalAHIMA: NO entries
+2025-06-04 11:23:48,906 [INFO] Fetching feed: HealthcareITToday
+2025-06-04 11:23:50,255 [INFO] Fetching feed: ONC
+2025-06-04 11:23:51,058 [WARNING] [❌] ONC: NO entries
+2025-06-04 11:23:51,058 [INFO] Fetching feed: MedCityNews
+2025-06-04 11:23:51,415 [INFO] Fetching feed: HITConsultant
+2025-06-04 11:23:51,704 [INFO] Fetching feed: HealthTechMagazine
+2025-06-04 11:23:52,906 [WARNING] [❌] HealthTechMagazine: NO entries
+2025-06-04 11:23:52,907 [INFO] Fetching feed: MobiHealthNews
+2025-06-04 11:23:53,505 [WARNING] [❌] MobiHealthNews: NO entries
+2025-06-04 11:23:53,505 [INFO] Fetching feed: HealthcareEconomist
+2025-06-04 11:23:53,680 [WARNING] [❌] HealthcareEconomist: NO entries
+2025-06-04 11:23:53,680 [INFO] Fetching feed: HealthITSecurity
+2025-06-04 11:23:54,198 [WARNING] [❌] HealthITSecurity: NO entries
+2025-06-04 11:23:54,198 [INFO] Fetching feed: HealthcareFinanceNews
+2025-06-04 11:23:54,910 [WARNING] [❌] HealthcareFinanceNews: NO entries
+2025-06-04 11:23:54,910 [INFO] Fetching feed: NEJMCatalyst
+2025-06-04 11:23:55,050 [WARNING] [❌] NEJMCatalyst: NO entries
+2025-06-04 11:23:55,050 [INFO] Fetching feed: HarvardHealthBlog
+2025-06-04 11:23:55,579 [WARNING] [❌] HarvardHealthBlog: NO entries
+2025-06-04 11:23:55,579 [INFO] Fetching feed: DigitalHealth
+2025-06-04 11:23:57,895 [INFO] ✅ Saved 70 articles to rss_articles.json
+2025-06-04 11:51:16,663 [INFO] Fetching feed: HHS
+2025-06-04 11:51:16,709 [WARNING] [❌] HHS: NO entries
+2025-06-04 11:51:16,709 [INFO] Fetching feed: CDC
+2025-06-04 11:51:19,989 [INFO] Fetching feed: FDA
+2025-06-04 11:51:20,257 [WARNING] [❌] FDA: NO entries
+2025-06-04 11:51:20,257 [INFO] Fetching feed: CMS
+2025-06-04 11:51:20,535 [WARNING] [❌] CMS: NO entries
+2025-06-04 11:51:20,535 [INFO] Fetching feed: NIH
+2025-06-04 11:51:20,772 [WARNING] [❌] NIH: NO entries
+2025-06-04 11:51:20,773 [INFO] Fetching feed: HealthCanada
+2025-06-04 11:51:24,024 [WARNING] [❌] HealthCanada: NO entries
+2025-06-04 11:51:24,024 [INFO] Fetching feed: AHA
+2025-06-04 11:51:24,740 [WARNING] [❌] AHA: NO entries
+2025-06-04 11:51:24,740 [INFO] Fetching feed: KFF
+2025-06-04 11:51:25,151 [INFO] Fetching feed: HealthAffairs
+2025-06-04 11:51:25,387 [INFO] Fetching feed: BeckersHospitalReview
+2025-06-04 11:51:25,526 [INFO] Fetching feed: THCB
+2025-06-04 11:51:25,807 [INFO] Fetching feed: HealthcareDive
+2025-06-04 11:51:26,292 [INFO] Fetching feed: MedPageToday
+2025-06-04 11:51:26,324 [WARNING] [❌] MedPageToday: NO entries
+2025-06-04 11:51:26,324 [INFO] Fetching feed: STATNews
+2025-06-04 11:51:26,756 [INFO] Fetching feed: NEJM
+2025-06-04 11:51:26,800 [WARNING] [❌] NEJM: NO entries
+2025-06-04 11:51:26,800 [INFO] Fetching feed: JAMA
+2025-06-04 11:51:27,372 [WARNING] [❌] JAMA: NO entries
+2025-06-04 11:51:27,372 [INFO] Fetching feed: Healio
+2025-06-04 11:51:28,306 [WARNING] [❌] Healio: NO entries
+2025-06-04 11:51:28,306 [INFO] Fetching feed: ModernHealthcare
+2025-06-04 11:51:28,380 [WARNING] [❌] ModernHealthcare: NO entries
+2025-06-04 11:51:28,380 [INFO] Fetching feed: FiercePharma
+2025-06-04 11:51:29,078 [WARNING] [❌] FiercePharma: NO entries
+2025-06-04 11:51:29,079 [INFO] Fetching feed: FierceBiotech
+2025-06-04 11:51:29,867 [WARNING] [❌] FierceBiotech: NO entries
+2025-06-04 11:51:29,867 [INFO] Fetching feed: EndpointsNews
+2025-06-04 11:51:30,467 [INFO] Fetching feed: BioPharmaDive
+2025-06-04 11:51:30,937 [INFO] Fetching feed: Medscape
+2025-06-04 11:51:31,211 [WARNING] [❌] Medscape: NO entries
+2025-06-04 11:51:31,212 [INFO] Fetching feed: Reuters_HealthNews
+2025-06-04 11:51:31,235 [WARNING] [❌] Reuters_HealthNews: NO entries
+2025-06-04 11:51:31,235 [INFO] Fetching feed: EpochTimes_Health
+2025-06-04 11:51:32,676 [WARNING] [❌] EpochTimes_Health: NO entries
+2025-06-04 11:51:32,677 [INFO] Fetching feed: EpochTimes_Science
+2025-06-04 11:51:33,577 [WARNING] [❌] EpochTimes_Science: NO entries
+2025-06-04 11:51:33,577 [INFO] Fetching feed: WHO_EMRO_News
+2025-06-04 11:51:34,520 [WARNING] [❌] WHO_EMRO_News: NO entries
+2025-06-04 11:51:34,520 [INFO] Fetching feed: WHO_EMRO_Publications
+2025-06-04 11:51:35,472 [WARNING] [❌] WHO_EMRO_Publications: NO entries
+2025-06-04 11:51:35,472 [INFO] Fetching feed: WHO_EMRO_Events
+2025-06-04 11:51:36,434 [WARNING] [❌] WHO_EMRO_Events: NO entries
+2025-06-04 11:51:36,435 [INFO] Fetching feed: WHO_EMRO_Statements
+2025-06-04 11:51:37,044 [WARNING] [❌] WHO_EMRO_Statements: NO entries
+2025-06-04 11:51:37,044 [INFO] Fetching feed: WHO_EMRO_PressReleases
+2025-06-04 11:51:37,639 [WARNING] [❌] WHO_EMRO_PressReleases: NO entries
+2025-06-04 11:51:37,639 [INFO] Fetching feed: HealthcareITNews
+2025-06-04 11:51:37,795 [WARNING] [❌] HealthcareITNews: NO entries
+2025-06-04 11:51:37,796 [INFO] Fetching feed: HealthITAnalytics
+2025-06-04 11:51:38,269 [WARNING] [❌] HealthITAnalytics: NO entries
+2025-06-04 11:51:38,269 [INFO] Fetching feed: HIMSS
+2025-06-04 11:51:38,397 [INFO] Fetching feed: HealthcareInformatics
+2025-06-04 11:51:38,870 [WARNING] [❌] HealthcareInformatics: NO entries
+2025-06-04 11:51:38,870 [INFO] Fetching feed: MedTechDive
+2025-06-04 11:51:39,294 [WARNING] [❌] MedTechDive: NO entries
+2025-06-04 11:51:39,294 [INFO] Fetching feed: FierceHealthcare
+2025-06-04 11:51:39,948 [WARNING] [❌] FierceHealthcare: NO entries
+2025-06-04 11:51:39,948 [INFO] Fetching feed: HealthDataManagement
+2025-06-04 11:51:40,157 [WARNING] [❌] HealthDataManagement: NO entries
+2025-06-04 11:51:40,157 [INFO] Fetching feed: JournalAHIMA
+2025-06-04 11:51:41,203 [WARNING] [❌] JournalAHIMA: NO entries
+2025-06-04 11:51:41,203 [INFO] Fetching feed: HealthcareITToday
+2025-06-04 11:51:42,489 [INFO] Fetching feed: ONC
+2025-06-04 11:51:43,282 [WARNING] [❌] ONC: NO entries
+2025-06-04 11:51:43,282 [INFO] Fetching feed: MedCityNews
+2025-06-04 11:51:43,602 [INFO] Fetching feed: HITConsultant
+2025-06-04 11:51:43,886 [INFO] Fetching feed: HealthTechMagazine
+2025-06-04 11:51:44,321 [WARNING] [❌] HealthTechMagazine: NO entries
+2025-06-04 11:51:44,321 [INFO] Fetching feed: MobiHealthNews
+2025-06-04 11:51:44,487 [WARNING] [❌] MobiHealthNews: NO entries
+2025-06-04 11:51:44,487 [INFO] Fetching feed: HealthcareEconomist
+2025-06-04 11:51:44,628 [WARNING] [❌] HealthcareEconomist: NO entries
+2025-06-04 11:51:44,628 [INFO] Fetching feed: HealthITSecurity
+2025-06-04 11:51:45,086 [WARNING] [❌] HealthITSecurity: NO entries
+2025-06-04 11:51:45,086 [INFO] Fetching feed: HealthcareFinanceNews
+2025-06-04 11:51:45,318 [WARNING] [❌] HealthcareFinanceNews: NO entries
+2025-06-04 11:51:45,318 [INFO] Fetching feed: NEJMCatalyst
+2025-06-04 11:51:45,462 [WARNING] [❌] NEJMCatalyst: NO entries
+2025-06-04 11:51:45,462 [INFO] Fetching feed: HarvardHealthBlog
+2025-06-04 11:51:45,912 [WARNING] [❌] HarvardHealthBlog: NO entries
+2025-06-04 11:51:45,913 [INFO] Fetching feed: DigitalHealth
+2025-06-04 11:51:48,618 [INFO] ✅ Saved 70 articles to rss_articles.json
+2025-06-04 12:36:47,383 [INFO] Fetching feed: HHS
+2025-06-04 12:36:47,539 [WARNING] [❌] HHS: NO entries
+2025-06-04 12:36:47,539 [INFO] Fetching feed: CDC
+2025-06-04 12:36:50,937 [INFO] Fetching feed: FDA
+2025-06-04 12:36:51,196 [WARNING] [❌] FDA: NO entries
+2025-06-04 12:36:51,196 [INFO] Fetching feed: CMS
+2025-06-04 12:36:51,401 [WARNING] [❌] CMS: NO entries
+2025-06-04 12:36:51,401 [INFO] Fetching feed: NIH
+2025-06-04 12:36:51,612 [WARNING] [❌] NIH: NO entries
+2025-06-04 12:36:51,612 [INFO] Fetching feed: HealthCanada
+2025-06-04 12:36:55,815 [WARNING] [❌] HealthCanada: NO entries
+2025-06-04 12:36:55,815 [INFO] Fetching feed: AHA
+2025-06-04 12:36:56,988 [WARNING] [❌] AHA: NO entries
+2025-06-04 12:36:56,988 [INFO] Fetching feed: KFF
+2025-06-04 12:36:57,332 [INFO] Fetching feed: HealthAffairs
+2025-06-04 12:36:57,656 [INFO] Fetching feed: BeckersHospitalReview
+2025-06-04 12:36:58,265 [INFO] Fetching feed: THCB
+2025-06-04 12:36:58,556 [INFO] Fetching feed: HealthcareDive
+2025-06-04 12:36:59,038 [INFO] Fetching feed: MedPageToday
+2025-06-04 12:36:59,094 [WARNING] [❌] MedPageToday: NO entries
+2025-06-04 12:36:59,094 [INFO] Fetching feed: STATNews
+2025-06-04 12:36:59,361 [INFO] Fetching feed: NEJM
+2025-06-04 12:36:59,407 [WARNING] [❌] NEJM: NO entries
+2025-06-04 12:36:59,407 [INFO] Fetching feed: JAMA
+2025-06-04 12:36:59,973 [WARNING] [❌] JAMA: NO entries
+2025-06-04 12:36:59,973 [INFO] Fetching feed: Healio
+2025-06-04 12:37:00,755 [WARNING] [❌] Healio: NO entries
+2025-06-04 12:37:00,755 [INFO] Fetching feed: ModernHealthcare
+2025-06-04 12:37:00,832 [WARNING] [❌] ModernHealthcare: NO entries
+2025-06-04 12:37:00,832 [INFO] Fetching feed: FiercePharma
+2025-06-04 12:37:01,563 [WARNING] [❌] FiercePharma: NO entries
+2025-06-04 12:37:01,563 [INFO] Fetching feed: FierceBiotech
+2025-06-04 12:37:02,384 [WARNING] [❌] FierceBiotech: NO entries
+2025-06-04 12:37:02,384 [INFO] Fetching feed: EndpointsNews
+2025-06-04 12:37:02,806 [INFO] Fetching feed: BioPharmaDive
+2025-06-04 12:37:03,235 [INFO] Fetching feed: Medscape
+2025-06-04 12:37:03,528 [WARNING] [❌] Medscape: NO entries
+2025-06-04 12:37:03,529 [INFO] Fetching feed: Reuters_HealthNews
+2025-06-04 12:37:03,562 [WARNING] [❌] Reuters_HealthNews: NO entries
+2025-06-04 12:37:03,562 [INFO] Fetching feed: EpochTimes_Health
+2025-06-04 12:37:04,930 [WARNING] [❌] EpochTimes_Health: NO entries
+2025-06-04 12:37:04,931 [INFO] Fetching feed: EpochTimes_Science
+2025-06-04 12:37:05,743 [WARNING] [❌] EpochTimes_Science: NO entries
+2025-06-04 12:37:05,744 [INFO] Fetching feed: WHO_EMRO_News
+2025-06-04 12:37:06,359 [WARNING] [❌] WHO_EMRO_News: NO entries
+2025-06-04 12:37:06,359 [INFO] Fetching feed: WHO_EMRO_Publications
+2025-06-04 12:37:07,002 [WARNING] [❌] WHO_EMRO_Publications: NO entries
+2025-06-04 12:37:07,002 [INFO] Fetching feed: WHO_EMRO_Events
+2025-06-04 12:37:07,618 [WARNING] [❌] WHO_EMRO_Events: NO entries
+2025-06-04 12:37:07,619 [INFO] Fetching feed: WHO_EMRO_Statements
+2025-06-04 12:37:08,195 [WARNING] [❌] WHO_EMRO_Statements: NO entries
+2025-06-04 12:37:08,195 [INFO] Fetching feed: WHO_EMRO_PressReleases
+2025-06-04 12:37:08,799 [WARNING] [❌] WHO_EMRO_PressReleases: NO entries
+2025-06-04 12:37:08,799 [INFO] Fetching feed: HealthcareITNews
+2025-06-04 12:37:09,692 [WARNING] [❌] HealthcareITNews: NO entries
+2025-06-04 12:37:09,692 [INFO] Fetching feed: HealthITAnalytics
+2025-06-04 12:37:10,157 [WARNING] [❌] HealthITAnalytics: NO entries
+2025-06-04 12:37:10,157 [INFO] Fetching feed: HIMSS
+2025-06-04 12:37:10,291 [INFO] Fetching feed: HealthcareInformatics
+2025-06-04 12:37:10,673 [WARNING] [❌] HealthcareInformatics: NO entries
+2025-06-04 12:37:10,673 [INFO] Fetching feed: MedTechDive
+2025-06-04 12:37:11,113 [WARNING] [❌] MedTechDive: NO entries
+2025-06-04 12:37:11,113 [INFO] Fetching feed: FierceHealthcare
+2025-06-04 12:37:11,763 [WARNING] [❌] FierceHealthcare: NO entries
+2025-06-04 12:37:11,763 [INFO] Fetching feed: HealthDataManagement
+2025-06-04 12:37:11,972 [WARNING] [❌] HealthDataManagement: NO entries
+2025-06-04 12:37:11,973 [INFO] Fetching feed: JournalAHIMA
+2025-06-04 12:37:12,417 [WARNING] [❌] JournalAHIMA: NO entries
+2025-06-04 12:37:12,418 [INFO] Fetching feed: HealthcareITToday
+2025-06-04 12:37:13,679 [INFO] Fetching feed: ONC
+2025-06-04 12:37:14,370 [WARNING] [❌] ONC: NO entries
+2025-06-04 12:37:14,370 [INFO] Fetching feed: MedCityNews
+2025-06-04 12:37:14,702 [INFO] Fetching feed: HITConsultant
+2025-06-04 12:37:15,156 [INFO] Fetching feed: HealthTechMagazine
+2025-06-04 12:37:15,586 [WARNING] [❌] HealthTechMagazine: NO entries
+2025-06-04 12:37:15,586 [INFO] Fetching feed: MobiHealthNews
+2025-06-04 12:37:16,158 [WARNING] [❌] MobiHealthNews: NO entries
+2025-06-04 12:37:16,158 [INFO] Fetching feed: HealthcareEconomist
+2025-06-04 12:37:16,305 [WARNING] [❌] HealthcareEconomist: NO entries
+2025-06-04 12:37:16,306 [INFO] Fetching feed: HealthITSecurity
+2025-06-04 12:37:16,775 [WARNING] [❌] HealthITSecurity: NO entries
+2025-06-04 12:37:16,775 [INFO] Fetching feed: HealthcareFinanceNews
+2025-06-04 12:37:17,053 [WARNING] [❌] HealthcareFinanceNews: NO entries
+2025-06-04 12:37:17,053 [INFO] Fetching feed: NEJMCatalyst
+2025-06-04 12:37:17,203 [WARNING] [❌] NEJMCatalyst: NO entries
+2025-06-04 12:37:17,204 [INFO] Fetching feed: HarvardHealthBlog
+2025-06-04 12:37:17,650 [WARNING] [❌] HarvardHealthBlog: NO entries
+2025-06-04 12:37:17,650 [INFO] Fetching feed: DigitalHealth
+2025-06-04 12:37:20,208 [INFO] ✅ Saved 70 articles to rss_articles.json

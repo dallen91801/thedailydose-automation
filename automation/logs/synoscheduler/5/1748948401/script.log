@@ -1,0 +1,19 @@
+cd /volume1/docker/thedailydose/automation
+
+# Run RSS collector script
+/volume1/@appstore/Python3.9/usr/bin/python3 rss_collector.py >> automation.log 2>&1
+
+# Run main content processor
+/volume1/@appstore/Python3.9/usr/bin/python3 main.py >> automation.log 2>&1
+
+# Run HHS-specific article fetcher
+/volume1/@appstore/Python3.9/usr/bin/python3 hhs_daily_articles.py >> automation.log 2>&1
+
+# Trigger Docker-based unified scraper (Flask API)
+/bin/curl --silent http://localhost:8082/scrape_all >> automation.log 2>&1
+
+/volume1/@appstore/Python3.9/usr/bin/python3 send_digest_email.py >> automation.log 2>&1
+
+# After Flask scraper finishes, copy latest Markdown digest for email attachment
+today=$(date +%F)
+cp /volume1/docker/thedailydose/automation/exports/daily_digest_${today}.md /volume1/docker/thedailydose/automation/daily_digest_latest.md
