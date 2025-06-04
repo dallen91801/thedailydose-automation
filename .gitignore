@@ -13,3 +13,11 @@ exports/
 .env.*
 
 .vscode/
+
+# Sensitive or internal-use files
+*.json
+*.csv
+secrets/
+*.sqlite
+automation.log
+daily_digest_latest.md
