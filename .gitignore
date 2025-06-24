@@ -1,0 +1,7 @@
+.env
+*.log
+*.json
+__pycache__/
+exports/
+wordpress/
+wp_data/

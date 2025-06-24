@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  emotion_tagger:
+    image: emotion-tagger-gpu
+    container_name: emotion_tagger
+    runtime: nvidia
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+    volumes:
+      - ./automation:/app/automation
+    working_dir: /app
+    command: python3 /app/automation/tag_emotions.py
+    restart: "no"

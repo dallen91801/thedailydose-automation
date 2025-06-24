@@ -1,0 +1,10 @@
+automation/logs
+*.log
+*.md
+*.json
+*.tar
+*.pem
+*.yml~
+__pycache__/
+*.pyc
+

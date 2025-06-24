@@ -1,0 +1,21 @@
+version: "3.9"
+
+services:
+  ai_agent:
+    build:
+      context: ../  # important: sets build context to project root
+      dockerfile: automation_gpu/Dockerfile  # specify Dockerfile location relative to context
+    image: ai_stack_container
+    container_name: ai_agent
+    runtime: nvidia
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+    volumes:
+      - ../:/app  # mount full project into container
+    working_dir: /app
+    tty: true
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - capabilities: [gpu]
